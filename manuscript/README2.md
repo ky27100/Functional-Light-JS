@@ -1,5 +1,5 @@
-# [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS) By Kyle Simpson
-*[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface)*
+# [Functional-Light JavaScript](https://github.com/getify/Functional-Light-JS)
+*[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface)* - By Kyle Simpson
 * [Chapter 1: Why Functional Programming?](ch1.md/#chapter-1-why-functional-programming)
     * [At a Glance](ch1.md/#at-a-glance)
     * [Confidence](ch1.md/#confidence)
