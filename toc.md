@@ -1,4 +1,5 @@
-[Table of Contents](manuscript/README.md/#table-of-contents)
+## Functional-Light JavaScript
+#### by Kyle Simpson, 388pages, Nov 27,2017
 
 * [Foreword](manuscript/foreword.md/#foreword) (by [Brian Lonsdorf, aka "Prof Frisby"](https://twitter.com/DrBoolean))
 * [Preface](manuscript/preface.md/#preface)
