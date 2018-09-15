@@ -1,5 +1,5 @@
 ### [*You Dont Konw JS*](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/toc.md) -- Functional Light Javascript -- [*JavaScript Allongé*](https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md)
-## [Functional-Light JavaScript](toc.md#functional-light-javascript---Outlined)-*detailed*
+## [Functional-Light JavaScript](toc.md#functional-light-javascript---Outlined) *(detailed)*
 *[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface) - Nov 27, 2017(388p) [By Kyle Simpson](https://github.com/getify)*
 * [Chapter 1: Why Functional Programming?](ch1.md/#chapter-1-why-functional-programming)
     * [At a Glance](ch1.md/#at-a-glance)
