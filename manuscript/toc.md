@@ -1,4 +1,4 @@
-### [Functional Javascript - *Outlined*](tocd.md) 
+### Functional Javascript - [*Outlined*](tocd.md) 
 ## [Functional-Light JavaScript](tocd.md#functional-light-javascript)
 *[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface) - Nov 27, 2017(388p) [By Kyle Simpson](https://github.com/getify)*
 * [Chapter 1: Why Functional Programming?](ch1.md/#chapter-1-why-functional-programming)
