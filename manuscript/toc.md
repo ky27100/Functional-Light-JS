@@ -2,7 +2,8 @@
 ### [Functional-Light JavaScript](tocd.md#functional-light-javascript)
 *[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface) - Nov 27, 2017(388p) [By Kyle Simpson](https://github.com/getify)*
 * [Chapter 1: Why Functional Programming?](ch1.md/#chapter-1-why-functional-programming)
-    * At a Glance -- Confidence -- Communication -- Readability -- Perspective -- How to Find Balance -- Resources -- Summary
+    * At a Glance -- Confidence -- Communication -- Readability
+    * Perspective -- How to Find Balance -- Resources -- Summary
 * [Chapter 2: The Nature Of Functions](ch2.md/#chapter-2-the-nature-of-functions)
     * What Is A Function? -- Function Input -- Named Arguments -- Function Output
     * Functions Of Functions -- Syntax -- What's This? -- Summary
