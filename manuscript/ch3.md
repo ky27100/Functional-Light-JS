@@ -86,7 +86,7 @@ words.filter( identity );
 
 Because `identity(..)` simply returns the value passed to it, JS coerces each value into either `true` or `false`, and that determines whether to keep or exclude each value in the final array.
 
-**Tip:** Another unary function that can be used as the predicate in the previous example is JS's built-in `Boolean(..)` function, which explicitly coerces a value to `true` or `false`.
+**Tip:** Another unary function that can be used as the **predicate** in the previous example is JS's built-in `Boolean(..)` function, which explicitly coerces a value to `true` or `false`.
 
 Another example of using `identity(..)` is as a default function in place of a transformation:
 
