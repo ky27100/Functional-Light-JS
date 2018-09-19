@@ -82,19 +82,8 @@
     * [Stock Ticker UI](ch11.md/#stock-ticker-ui)
     * [Summary](ch11.md/#summary)
 * [Appendix A: Transducing](apA.md/#appendix-a-transducing)
-    * [Why, First](apA.md/#why-first)
-    * [How, Next](apA.md/#how-next)
-    * [What, Finally](apA.md/#what-finally)
+    * Why, First -- How, Next -- What, Finally
 * [Appendix B: The Humble Monad](apB.md/#appendix-b-the-humble-monad)
-    * [Type](apB.md/#type)
-    * [Loose Interface](apB.md/#loose-interface)
-    * [Just a Monad](apB.md/#just-a-monad)
-    * [Maybe](apB.md/#maybe)
-    * [Humble](apB.md/#humble)
+    * Type -- Loose Interface -- Just a Monad -- Maybe -- Humble
 * [Appendix C: FP Libraries](apC.md/#appendix-c-fp-libraries)
-    * [Stuff to Investigate](apC.md/#stuff-to-investigate)
-    * [Ramda](apC.md/#ramda-0230)
-    * [Lodash/fp](apC.md/#lodashfp-4174)
-    * [Mori](apC.md/#mori-032)
-    * [Bonus: FPO](apC.md/#bonus-fpo)
-    * [Bonus #2: fasy](apC.md/#bonus-2-fasy)
+    * Stuff to Investigate -- Ramda -- Lodash/fp -- Mori -- Bonus: FPO -- Bonus #2: fasy
