@@ -532,7 +532,7 @@ This implicit function output has a special name in the FP world: side effects. 
 
 ## Functions of Functions
 
-Functions can receive and return values of any type. A function that receives or returns one or more other function values has the special name: higher-order function.
+Functions can receive and return values of any type. **A function that receives or returns one or more other function values has the special name: *higher-order function.***
 
 Consider:
 
