@@ -13,8 +13,7 @@
     * Perspective -- How to Find Balance -- Resources -- Summary
 * [Chapter 2: The Nature Of Functions](ch2.md/#chapter-2-the-nature-of-functions)
     * [What Is A Function?](ch2.md/#what-is-a-function)
-    * [Function Input](ch2.md/#function-input) -- [Named Arguments](ch2.md/#named-arguments)
-    * [Function Output](ch2.md/#function-output) -- [Functions Of Functions](ch2.md/#functions-of-functions)
+    * [Function Input](ch2.md/#function-input) -- [Named Arguments](ch2.md/#named-arguments) -- [Function Output](ch2.md/#function-output) -- [Functions Of Functions](ch2.md/#functions-of-functions)
     * [Syntax](ch2.md/#syntax) -- [What's This?](ch2.md/#whats-this) -- [Summary](ch2.md/#summary)
 * [Chapter 3: Managing Function Inputs](ch3.md/#chapter-3-managing-function-inputs)
     * [All For One](ch3.md/#all-for-one)
