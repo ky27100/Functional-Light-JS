@@ -55,7 +55,7 @@ So far, we can conclude that functions must expect input. But let's dig into how
 
 You sometimes hear people refer to these inputs as "arguments" and sometimes as "parameters". So what's that all about?
 
-*Arguments* are the values you pass in, and *parameters* are the named variables inside the function that receive those passed-in values. Example:
+***Arguments* are the values you pass in, and *parameters* are the named variables inside the function that receive those passed-in values.** Example:
 
 ```js
 function foo(x,y) {
