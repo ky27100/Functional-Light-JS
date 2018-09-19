@@ -19,7 +19,7 @@
     * [All For One](ch3.md/#all-for-one) : one argument,only
     * [Adapting Arguments to Parameters](ch3.md/#adapting-arguments-to-parameters)
     * [Some Now, Some Later](ch3.md/#some-now-some-later) : partial
-    * [One At A Time](ch3.md/#one-at-a-time)
+    * [One At A Time](ch3.md/#one-at-a-time) : curry
     * [Order Matters](ch3.md/#order-matters)
     * [No Points](ch3.md/#no-points)
     * [Summary](ch3.md/#summary)
