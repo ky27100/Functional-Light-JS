@@ -73,7 +73,7 @@ var identity =
 
 This utility looks so simple as to hardly be useful. But even simple functions can be helpful in the world of FP. Like they say in acting: there are no small parts, only small actors.
 
-For example, imagine you'd like to split up a string using a regular expression, but the resulting array may have some empty values in it. To discard those, we can use JS's `filter(..)` array operation (see [Chapter 9, "Filter"](ch9.md/#filter)) with `identity(..)` as the predicate:
+For example, imagine you'd like to split up a string using a regular expression, but the resulting array may have some empty values in it. To discard those, we can use JS's `filter(..)` array operation (see [Chapter 9, "Filter"](ch9.md/#filter)) with `identity(..)` as the [**predicate**](https://codepen.io/Universalist/post/predicates-in-javascript):
 
 ```js
 var words = "   Now is the time for all...  ".split( /\s|\b/ );
