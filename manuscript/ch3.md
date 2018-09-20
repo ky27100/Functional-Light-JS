@@ -957,7 +957,7 @@ Weigh these trade-offs carefully.
 
 ## No Points
 
-A popular style of coding in the FP world aims to reduce some of the visual clutter by removing unnecessary parameter-argument mapping. This style is formally called tacit programming, or more commonly: point-free style. The term "point" here is referring to a function's parameter input.
+A popular style of coding in the FP world aims to reduce some of the visual clutter by removing unnecessary parameter-argument mapping. **This style is formally called tacit programming, or more commonly: point-free style. The term "point" here is referring to a function's parameter input.**
 
 **Warning:** Stop for a moment. Let's make sure we're careful not to take this discussion as an unbounded suggestion that you go overboard trying to be point-free in your FP code at all costs. This should be a technique for improving readability, when used in moderation. But as with most things in software development, you can definitely abuse it. If your code gets harder to understand because of the hoops you have to jump through to be point-free, stop. You won't win a blue ribbon just because you found some clever but esoteric way to remove another "point" from your code.
 
