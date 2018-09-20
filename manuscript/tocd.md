@@ -21,7 +21,7 @@
     * [Some Now, Some Later](ch3.md/#some-now-some-later) : partial / partialRight / reverseArgs
     * [One At A Time](ch3.md/#one-at-a-time) : curry / looseCurry / uncurry
     * [Order Matters](ch3.md/#order-matters) : partialProps / curryProps / spreadArgProps
-    * [No Points](ch3.md/#no-points)
+    * [No Points(point-free style)](ch3.md/#no-points) : unary / not / when
     * [Summary](ch3.md/#summary)
 * [Chapter 4: Composing Functions](ch4.md/#chapter-4-composing-functions)
     * [Output To Input](ch4.md/#output-to-input)
