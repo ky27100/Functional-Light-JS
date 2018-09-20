@@ -16,10 +16,10 @@
     * [Function Input](ch2.md/#function-input) -- [Named Arguments](ch2.md/#named-arguments) -- [Function Output](ch2.md/#function-output) -- [Functions Of Functions](ch2.md/#functions-of-functions)
     * [Syntax](ch2.md/#syntax) -- [What's This?](ch2.md/#whats-this) -- [Summary](ch2.md/#summary)
 * [Chapter 3: Managing Function Inputs](ch3.md/#chapter-3-managing-function-inputs)
-    * [All For One](ch3.md/#all-for-one) : one argument,only
-    * [Adapting Arguments to Parameters](ch3.md/#adapting-arguments-to-parameters)
-    * [Some Now, Some Later](ch3.md/#some-now-some-later) : partial
-    * [One At A Time](ch3.md/#one-at-a-time) : curry
+    * [All For One](ch3.md/#all-for-one) : unary / identity / constant
+    * [Adapting Arguments to Parameters](ch3.md/#adapting-arguments-to-parameters) : spreadArgs / gatherArgs
+    * [Some Now, Some Later](ch3.md/#some-now-some-later) : partial / partialRight / reverseArgs
+    * [One At A Time](ch3.md/#one-at-a-time) : curry / uncurry
     * [Order Matters](ch3.md/#order-matters)
     * [No Points](ch3.md/#no-points)
     * [Summary](ch3.md/#summary)
