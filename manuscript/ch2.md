@@ -380,7 +380,7 @@ The `undefined` value is implicitly `return`ed if you have no `return` or if you
 
 But keeping as much with the spirit of FP function definition as possible -- using functions and not procedures -- our functions should always have outputs, which means they should explicitly `return` a value, and usually not `undefined`.
 
-A `return` statement can only return a single value. So if your function needs to return multiple values, your only viable option is to collect them into a compound value like an array or an object:
+**[A `return` statement can only return a single value.]() So if your function needs to return multiple values, your only viable option is to collect them into a compound value like an array or an object:**
 
 ```js
 function foo() {
@@ -397,7 +397,7 @@ var [ x, y ] = foo();
 console.log( x + y );           // 42
 ```
 
-Collecting multiple values into an array (or object) to return, and subsequently destructuring those values back into distinct assignments, is a way to transparently express multiple outputs for a function.
+**Collecting multiple values into an array (or object) to return, and subsequently destructuring those values back into distinct assignments, is a way to transparently express multiple outputs for a function.**
 
 **Tip:** I'd be remiss if I didn't suggest you take a moment to consider if a function needing multiple outputs could be refactored to avoid that, perhaps separated into two or more smaller single-purpose functions? Sometimes that will be possible, sometimes not; but you should at least consider it.
 
