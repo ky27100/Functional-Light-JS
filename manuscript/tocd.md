@@ -26,7 +26,7 @@
     * [Summary](ch3.md/#summary)
 * [Chapter 4: Composing Functions](ch4.md/#chapter-4-composing-functions)
     * [Output To Input](ch4.md/#output-to-input)
-    * [General Composition](ch4.md/#general-composition)
+    * [General Composition](ch4.md/#general-composition): compose
     * [Reordered Composition](ch4.md/#reordered-composition)
     * [Abstraction](ch4.md/#abstraction)
     * [Revisiting Points](ch4.md/#revisiting-points)
