@@ -160,7 +160,7 @@ function foo( [x,y,...args] = [] ) {
 
 This pattern is handy if an array will be passed in but you want to treat its contents as individual parameters. `foo(..)` is thus technically unary -- when it's executed, only one argument (an array) will be passed to it. But inside the function, you get to address different inputs (`x`, `y`, etc) individually.
 
-However, sometimes you won't have the ability to change the declaration of the function to use array parameter destructuring. For example, imagine these functions:
+However, **sometimes you won't have the ability to change the declaration of the function** to use array parameter destructuring. For example, imagine these functions:
 
 ```js
 function foo(x,y) {
