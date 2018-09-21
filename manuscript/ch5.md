@@ -855,7 +855,7 @@ You need to figure what kind of side causes/effects the function has. It may be 
 
 ### Containing Effects
 
-If the nature of the concerned side causes/effects is with lexical free variables, and you have the option to modify the surrounding code, you can encapsulate them using scope.
+If the nature of the concerned side causes/effects is with :one:**exical free variables,** and you have the option to modify the surrounding code, you can encapsulate them using scope.
 
 Recall:
 
