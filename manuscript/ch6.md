@@ -78,7 +78,7 @@ s;                  // "hello"
 
 We'll unpack this idea more throughout the chapter, but just to start with a clear understanding in mind: value immutability does not mean we can't have values change over the course of our program. A program without changing state is not a very interesting one! It also doesn't mean that our variables can't hold different values. These are all common misconceptions about value immutability.
 
-Value immutability means that *when* we need to change the state in our program, we must create and track a new value rather than mutate an existing value.
+**Value immutability means that *when* we need to change the state in our program, we must create and track a new value rather than mutate an existing value.**
 
 For example:
 
