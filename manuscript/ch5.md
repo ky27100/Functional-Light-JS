@@ -851,11 +851,11 @@ nums;       // [4,2,7,3,8]
 
 But what can you do if you have an impure function where the refactoring is not as easy?
 
-You need to figure what kind of side causes/effects the function has. It may be that the side causes/effects come variously from :one:lexical free variables, :two:mutations-by-reference, or even :three:`this` binding. We'll look at approaches that address each of these scenarios.
+You need to figure what kind of side causes/effects the function has. It may be that the side causes/effects come variously from :one: lexical free variables, :two: mutations-by-reference, or even :three: `this` binding. We'll look at approaches that address each of these scenarios.
 
 ### Containing Effects
 
-If the nature of the concerned side causes/effects is with :one:**exical free variables,** and you have the option to modify the surrounding code, you can encapsulate them using scope.
+If the nature of the concerned side causes/effects is with :one:** lexical free variables,** and you have the option to modify the surrounding code, you can encapsulate them using scope.
 
 Recall:
 
