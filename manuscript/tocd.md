@@ -32,10 +32,10 @@
     * [Revisiting Points](ch4.md/#revisiting-points)
     * [Summary](ch4.md/#summary)
 * [Chapter 5: Reducing Side Effects](ch5.md/#chapter-5-reducing-side-effects)
-    * [Effects On The Side, Please](ch5.md/#effects-on-the-side-please)
-    * [Once Is Enough, Thanks](ch5.md/#once-is-enough-thanks) : Idempotence
+    * [Effects On The Side, Please](ch5.md/#effects-on-the-side-please) : pure_func_1 - no side causes/effects
+    * [Once Is Enough, Thanks](ch5.md/#once-is-enough-thanks) : pure_func_2 - Idempotent
     * [Pure Bliss](ch5.md/#pure-bliss)
-    * [There Or Not](ch5.md/#there-or-not)
+    * [There Or Not](ch5.md/#there-or-not) : pure_func_3 - Referential transparency
     * [Purifying](ch5.md/#purifying)
     * [Summary](ch5.md/#summary)
 * [Chapter 6: Value Immutability](ch6.md/#chapter-6-value-immutability)
