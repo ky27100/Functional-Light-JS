@@ -909,7 +909,7 @@ Be very careful, though. Any part of the program that's impure, even if it's wra
 
 ### Covering Up Effects
 
-Many times you will be unable to modify the code to encapsulate the lexical free variables inside the scope of a wrapper function. For example, the impure function may be in a third-party library file that you do not control, containing something like:
+Many times you will be unable to modify the code to encapsulate the :one: **lexical free variables** inside the scope of a wrapper function. For example, the impure function may be in a third-party library file that you do not control, containing something like:
 
 ```js
 var nums = [];
@@ -998,7 +998,7 @@ That's a lot of manual work to avoid a few side causes/effects; it'd be a lot ea
 
 ### Evading Effects
 
-When the nature of the side effect to be dealt with is a mutation of a direct input value (object, array, etc.) via reference, we can again create an interface function to interact with instead of the original impure function.
+When the nature of the side effect to be dealt with is :two: **a mutation of a direct input value (object, array, etc.) via reference,** we can again create an interface function to interact with instead of the original impure function.
 
 Consider:
 
@@ -1039,7 +1039,7 @@ The success of this technique will be dependent on the thoroughness of the *copy
 
 ### `this` Revisited
 
-Another variation of the via-reference side cause/effect is with `this`-aware functions having `this` as an implicit input. See [Chapter 2, "What's This"](ch2.md/#whats-this) for more info on why the `this` keyword is problematic for FPers.
+Another variation of the via-reference side cause/effect is with :three: **`this`-aware functions having `this` as an implicit input.** See [Chapter 2, "What's This"](ch2.md/#whats-this) for more info on why the `this` keyword is problematic for FPers.
 
 Consider:
 
