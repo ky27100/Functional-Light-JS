@@ -159,7 +159,7 @@ How would you describe what a "constant" is? Think about that for a moment befor
 
 Some of you may have conjured descriptions like, "a value that can't change", "a variable that can't be changed", or something similar. These are all approximately in the neighborhood, but not quite at the right house. The precise definition we should use for **a constant is: a variable that cannot be reassigned.**
 
-This nitpicking is really important, because it clarifies that a constant actually has nothing to do with the value, except to say that whatever value a constant holds, that variable cannot be reassigned any other value. But it says nothing about the nature of the value itself.
+This nitpicking is really important, because it clarifies that a constant actually has nothing to do with **the value**, except to say that whatever value a constant holds, **that variable** cannot be reassigned any other value. But it says nothing about the nature of the value itself.
 
 Consider:
 
