@@ -3,7 +3,7 @@
 
 In [Chapter 5](ch5.md), we talked about the importance of reducing side causes/effects: the ways that your application's state can change unexpectedly and cause surprises (bugs). The fewer places we have with such landmines, the more confidence we have over our code, and the more readable it will be. Our topic for this chapter follows directly from that same effort.
 
-If programming-style idempotence is about defining a value change operation so that it can only affect state once, we now turn our attention to the goal of reducing the number of change occurrences from one to zero.
+If programming-style **idempotence is about defining a value change operation so that *it can only affect state once,*** **we now turn our attention to the goal of reducing *the number of change occurrences from one to zero.***
 
 Let's now explore value immutability, the notion that in our programs we use only values that cannot be changed.
 
