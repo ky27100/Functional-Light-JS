@@ -36,6 +36,7 @@
     * [Once Is Enough, Thanks](ch5.md/#once-is-enough-thanks) : pure_func_2 - Idempotent
     * [Pure Bliss](ch5.md/#pure-bliss)
     * [There Or Not](ch5.md/#there-or-not) : pure_func_3 - Referential transparency
+        * [cache : Performance Effects](ch5.md/#performance-effects)
     * [Purifying](ch5.md/#purifying)
     * [Summary](ch5.md/#summary)
 * [Chapter 6: Value Immutability](ch6.md/#chapter-6-value-immutability)
