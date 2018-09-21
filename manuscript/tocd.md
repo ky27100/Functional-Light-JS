@@ -33,7 +33,7 @@
     * [Summary](ch4.md/#summary)
 * [Chapter 5: Reducing Side Effects](ch5.md/#chapter-5-reducing-side-effects)
     * [Effects On The Side, Please](ch5.md/#effects-on-the-side-please)
-    * [Once Is Enough, Thanks](ch5.md/#once-is-enough-thanks)
+    * [Once Is Enough, Thanks](ch5.md/#once-is-enough-thanks) : Idempotence
     * [Pure Bliss](ch5.md/#pure-bliss)
     * [There Or Not](ch5.md/#there-or-not)
     * [Purifying](ch5.md/#purifying)
