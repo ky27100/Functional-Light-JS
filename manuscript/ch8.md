@@ -5,20 +5,8 @@ Did you have fun down our little closures/objects rabbit hole in the previous ch
 
 On the next page, we're going to jump into the topic of recursion.
 
-<hr>
-
 *(rest of the page intentionally left blank)*
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 <div style="page-break-after: always;"></div>
