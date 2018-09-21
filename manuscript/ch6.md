@@ -403,7 +403,7 @@ When changes to a value are few or infrequent and performance is less of a conce
 
 ## Treatment
 
-What if we receive a value to our function and we're not sure if it's mutable or immutable? Is it ever OK to just go ahead and try to mutate it? **No.** As we asserted at the beginning of this chapter, we should treat all received values as immutable -- to avoid side effects and remain pure -- regardless of whether they are or not.
+What if we receive a value to our function and we're not sure if it's mutable or immutable? Is it ever OK to just go ahead and try to mutate it? **No.** As we asserted at the beginning of this chapter, **we should treat all received values as immutable -- to avoid side effects and remain pure -- regardless of whether they are or not.**
 
 Recall this example from earlier:
 
