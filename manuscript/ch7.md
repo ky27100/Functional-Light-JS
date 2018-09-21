@@ -382,7 +382,7 @@ But instead of thinking about numbers, let's relate isomorphism to code. Again q
 
 As we asserted earlier with our examples of closures-as-objects and objects-as-closures, these representative alternations go either way. In this respect, they are isomorphisms to each other.
 
-Put simply, closures and objects are isomorphic representations of state (and its associated functionality).
+Put simply, **closures and objects are isomorphic representations of state (and its associated functionality).**
 
 The next time you hear someone say "X is isomorphic to Y", what they mean is, "X and Y can be converted from either one to the other in either direction, and not lose information."
 
