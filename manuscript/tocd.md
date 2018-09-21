@@ -47,7 +47,7 @@
     * [Summary](ch6.md/#summary)
 * [Chapter 7: Closure vs Object](ch7.md/#chapter-7-closure-vs-object)
     * [The Same Page](ch7.md/#the-same-page)
-    * [Look Alike](ch7.md/#look-alike) - Closure & object
+    * [Look Alike](ch7.md/#look-alike) - closures and objects are isomorphic representations of state
     * [Two Roads Diverged In A Wood...](ch7.md/#two-roads-diverged-in-a-wood)
     * [Summary](ch7.md/#summary)
 * [Chapter 8: Recursion](ch8.md/#chapter-8-recursion)
