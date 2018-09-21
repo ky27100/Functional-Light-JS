@@ -41,7 +41,7 @@
 * [Chapter 6: Value Immutability](ch6.md/#chapter-6-value-immutability)
     * [Primitive Immutability](ch6.md/#primitive-immutability)
     * [Value To Value](ch6.md/#value-to-value)
-    * [Reassignment](ch6.md/#reassignment)
+    * [Reassignment](ch6.md/#reassignment) : const/constant
     * [Performance](ch6.md/#performance)
     * [Treatment](ch6.md/#treatment)
     * [Summary](ch6.md/#summary)
