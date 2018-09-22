@@ -55,6 +55,7 @@
 * [Chapter 8: Recursion](ch8.md/#chapter-8-recursion)
     * [Definition](ch8.md/#definition) -- [Declarative Recursion](ch8.md/#declarative-recursion)
     * [Stack](ch8.md/#stack) -- [Rearranging Recursion](ch8.md/#rearranging-recursion)
+        * Replacing the Stack -- Continuation Passing Style(CPS) -- Trampolines
     * [Summary](ch8.md/#summary)
 * [Chapter 9: List Operations](ch9.md/#chapter-9-list-operations)
     * [Non-FP List Processing](ch9.md/#non-fp-list-processing)
