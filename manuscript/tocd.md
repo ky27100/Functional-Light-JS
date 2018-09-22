@@ -53,8 +53,7 @@
         * Structural Mutability -- Privacy -- [Cloning State](ch7.md#cloning-state) -- Performance
     * [Summary](ch7.md/#summary)
 * [Chapter 8: Recursion](ch8.md/#chapter-8-recursion)
-    * [Definition](ch8.md/#definition)
-    * [Declarative Recursion](ch8.md/#declarative-recursion)
+    * [Definition](ch8.md/#definition) -- [Declarative Recursion](ch8.md/#declarative-recursion)
     * [Stack](ch8.md/#stack)
     * [Rearranging Recursion](ch8.md/#rearranging-recursion)
     * [Summary](ch8.md/#summary)
