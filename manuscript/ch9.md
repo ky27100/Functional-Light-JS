@@ -171,7 +171,7 @@ We've mostly tried to stay away from invented terminology in FP as much as possi
 
 I'm going to very briefly break that pattern and use a word that might be a little intimidating: functor. The reason I want to talk about functors here is because we now already understand what they do, and because that term is used heavily throughout the rest of FP literature; indeed, functors are foundational ideas in FP that come straight from the mathematical principles (category theory). You being at least familiar with and not scared by this term will be beneficial.
 
-A functor is a value that has a utility for using an operator function on that value, which preserves composition.
+**A functor is a value that has a utility for using an operator function on that value, which preserves composition.**
 
 If the value in question is compound, meaning it's comprised of individual values -- as is the case with arrays, for example! -- a functor uses the operator function on each individual value. Moreover, the functor utility creates a new compound value holding the results of all the individual operator function calls.
 
