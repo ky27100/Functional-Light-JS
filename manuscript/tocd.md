@@ -78,5 +78,5 @@
     * Why, First -- How, Next -- What, Finally
 * [Appendix B: The Humble Monad](apB.md/#appendix-b-the-humble-monad)
     * Type -- Loose Interface -- Just a Monad -- Maybe -- Humble
-* [Appendix C: FP Libraries](apC.md/#appendix-c-fp-libraries) --  [FL-helper.js](FL-helper.js)
+* [Appendix C: FP Libraries](apC.md/#appendix-c-fp-libraries) / [FL-helper.js](FL-helper.js)
     * Stuff to Investigate -- Ramda -- Lodash/fp -- Mori -- Bonus: FPO -- Bonus #2: fasy
