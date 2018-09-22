@@ -59,7 +59,7 @@
     * [Summary](ch8.md/#summary)
 * [Chapter 9: List Operations](ch9.md/#chapter-9-list-operations)
     * [Non-FP List Processing](ch9.md/#non-fp-list-processing)
-    * Key List operations : [Map](ch9.md/#map)/[Functor](ch9.md#a-word-functors) -- [Filter](ch9.md/#filter) -- [Reduce](ch9.md/#reduce)
+    * Key List operations : [Map](ch9.md/#map)([Functor](ch9.md#a-word-functors)) -- [Filter](ch9.md/#filter) -- [Reduce](ch9.md/#reduce)
     * [Advanced List Operations](ch9.md/#advanced-list-operations) : Unique -- Flatten -- Zip -- Merge
     * [Method vs. Standalone](ch9.md/#method-vs-standalone)
     * [Looking For Lists](ch9.md/#looking-for-lists) -- [Fusion](ch9.md/#fusion)
