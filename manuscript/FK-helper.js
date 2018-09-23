@@ -13,5 +13,6 @@ function map(fn,arr){
 	for(let idx =0; idx<arr.length; idx++){
 		arr[idx] = fn(arr[idx]);
 	}
+	return arr;
 }
 
