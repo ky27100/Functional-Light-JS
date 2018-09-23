@@ -15,3 +15,11 @@ function map(mapperFn, arr){
 	}
 	return newArr;
 }
+
+function filter(predicateFn, arr){   // (= filterIn)
+	var newArr=[];
+	for(let idx=0; idx <  arr.length; idx++){
+		if (predicateFn(arr[idx])) newArr.push(arr[idx])
+	}
+	return newArr;
+}
