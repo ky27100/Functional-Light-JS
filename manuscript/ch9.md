@@ -503,7 +503,7 @@ var double = v => v * 2;
 // [2,4,6,8,10]
 
 [1,2,3,4,5].reduce(
-    (list,v) => (
+    (list,v) => (              // :thumbsup: [comma operator](https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/main_0_functions.md#commas)
         list.push( double( v ) ),
         list
     ), []
@@ -528,7 +528,7 @@ var isOdd = v => v % 2 == 1;
 // [1,3,5]
 
 [1,2,3,4,5].reduce(
-    (list,v) => (
+    (list,v) => (             // :thumbsup: [comma operator](https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/main_0_functions.md#commas)
         isOdd( v ) ? list.push( v ) : undefined,
         list
     ), []
