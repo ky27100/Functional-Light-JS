@@ -11,7 +11,7 @@ function reduce(reducerfn,initial,arr){
 function map(mapperFn, arr){
 	var newArr = [];
 	for(let idx=0; idx < arr.length; idx++){
-		newArr.push( mapperFn(arr[idx]))
+		newArr.push( mapperFn(arr[idx]));
 	}
 	return newArr;
 }
