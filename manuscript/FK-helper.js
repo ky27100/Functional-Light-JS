@@ -1,9 +1,9 @@
 "use strict";
 
-function reduce(fn,initial,arr){
+function reduce(reducerfn,initial,arr){
 	var acc = initial;
 	for(let idx =0; idx < arr.length; idx++){
-		acc = fn(acc, arr[idx]);
+		acc = reducerfn(acc, arr[idx]);
 	}
 	return acc;
 }
