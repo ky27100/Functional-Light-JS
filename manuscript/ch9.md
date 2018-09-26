@@ -917,7 +917,7 @@ compose(
 ( [1,2,3,4,5] );                    // 18
 ```
 
-That's why FP libraries typically define `filter(..)`, `map(..)`, and `reduce(..)` to instead receive the array last, not first. They also typically automatically curry the utilities:
+**That's why FP libraries typically define `filter(..)`, `map(..)`, and `reduce(..)` to instead receive the array *last, not first.*** They also typically automatically curry the utilities:
 
 ```js
 var filter = curry(
