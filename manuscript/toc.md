@@ -1,10 +1,10 @@
 <a name="top"></a>
-***[You Dont Konw JS]**[_detail](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/tocd.md#top) - **[Functional Light JS]**[_detail](https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/tocd.md#top) - **[Understanding ES6]**[_detail](https://github.com/kiyounglee/understandinges6/blob/master/manuscript/tocd.md#top) - **[JS Allongé]**[_detail](https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/tocd.md#top)*
+***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***
 
 [You Dont Konw JS]: https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/toc.md#top
 [Functional Light JS]: https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md#top
 [Understanding ES6]: https://github.com/kiyounglee/understandinges6/blob/master/manuscript/toc.md#top
-[JS Allongé]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
+[Javascript Allongé-6th]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
 
 ## [Functional-Light JavaScript](tocd.md#top)
 *[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface) - Nov 27, 2017(388p) [By Kyle Simpson](https://github.com/getify)*
