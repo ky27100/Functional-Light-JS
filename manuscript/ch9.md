@@ -987,7 +987,7 @@ compose(
 If you prefer to work with only array methods (fluent chain style), you have two choices. You can:
 
 1. Extend the built-in `Array.prototype` with additional methods.
-2. Adapt a standalone utility to work as a reducer function and pass it to the `reduce(..)` instance method.
+2. Adapt a standalone utility to work as **a reducer function** and pass it to **the `reduce(..)` instance method.**
 
 **Don't do (1).** It's never a good idea to extend built-in natives like `Array.prototype` -- unless you define a subclass of `Array`, but that's beyond our discussion scope here. In an effort to discourage bad practices, we won't go any further into this approach.
 
