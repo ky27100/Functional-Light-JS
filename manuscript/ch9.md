@@ -906,7 +906,7 @@ var reduce = (arr,reducerFn,initialValue) =>
     arr.reduce( reducerFn, initialValue );
 ```
 
-But this particular standalone approach, with the `arr` as the first parameter, suffers from its own awkwardness; the cascading array context is the first argument rather than the last, so we have to use right-partial application to compose them:
+But this particular standalone approach, **with the `arr` as the first parameter**, suffers from its own awkwardness; the cascading array context is the first argument rather than the last, so we have to use right-partial application to compose them:
 
 ```js
 compose(
