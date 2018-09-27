@@ -36,7 +36,7 @@
     * Stuff to Investigate -- Ramda -- Lodash/fp -- Mori -- Bonus: FPO --  Bonus #2: fasy
 
 <a name="middle"></a>
-## [Functional-Light JavaScript](#top) *(detailed)*
+## [Functional-Light JavaScript](#top) *- detail*
 ***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***   
 *[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface) - Nov 27, 2017(388p) [By Kyle Simpson](https://github.com/getify)*
 * [Chapter 1: Why Functional Programming?](ch1.md/#chapter-1-why-functional-programming)
