@@ -56,7 +56,7 @@
     * [No Points(point-free style)](ch3.md/#no-points) : unary / not / when
     * [Summary](ch3.md/#summary)
 * [Chapter 4: Composing Functions](ch4.md/#chapter-4-composing-functions)
-    * [Output To Input](ch4.md/#output-to-input)
+    * [Output To Input](ch4.md/#output-to-input) : Candy Factory
     * [General Composition](ch4.md/#general-composition): compose(with loop, reduce, recursion)
     * [Reordered Composition](ch4.md/#reordered-composition) : pipe
     * [Abstraction](ch4.md/#abstraction)
