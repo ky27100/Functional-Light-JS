@@ -110,7 +110,7 @@
 * [Appendix B: The Humble Monad](apB.md/#appendix-b-the-humble-monad)
     * Type -- Loose Interface -- Just a Monad -- Maybe -- Humble
 * [Appendix C: FP Libraries](apC.md/#appendix-c-fp-libraries) / [FL-helper.js](FL-helper.js) / [FK-helper.js](FK-helper.js)
-    * Stuff to Investigate -- Ramda -- Lodash/fp -- Mori -- Bonus: FPO -- Bonus #2: fasy
+    * Stuff to Investigate -- Ramda -- Lodash/fp -- Mori -- Bonus #1: FPO -- Bonus #2: fasy
     
 [You Dont Konw JS]: https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/toc.md#top
 [Functional Light JS]: https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md#top
