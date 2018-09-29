@@ -408,7 +408,7 @@ var compose =
     };
 ```
 
-I think the benefit of a recursive implementation is mostly conceptual. I personally find it much easier to think about a repetitive action in recursive terms instead of in a loop where I have to track the running result, so I prefer the code to express it that way.
+I think the benefit of a recursive implementation is mostly conceptual. **I personally find it much easier to think about a repetitive action in recursive terms instead of in a loop where I have to track the running result,** so I prefer the code to express it that way.
 
 Others will find the recursive approach quite a bit more daunting to mentally juggle. I invite you to make your own evaluations.
 
