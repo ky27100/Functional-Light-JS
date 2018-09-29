@@ -994,7 +994,7 @@ Let's revisit an example from earlier:
 // [1,2,3]
 ```
 
-In this example, `mapper(..)` is actually serving an important purpose, which is to discard the `index` argument that `map(..)` would pass in, because `parseInt(..)` would incorrectly interpret that value as a `radix` for the parsing.
+In this example, **`mapper(..)` is actually serving an important purpose, which is to discard the `index` argument that `map(..)` would pass in,** because `parseInt(..)` would incorrectly interpret that value as a `radix` for the parsing.
 
 If you recall from the beginning of this chapter, this was an example where `unary(..)` helps us out:
 
