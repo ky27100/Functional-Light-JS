@@ -60,7 +60,7 @@
     * [General Composition](ch4.md/#general-composition): compose with loop / reduce / reduce(lazy) / recursion
     * [Reordered Composition](ch4.md/#reordered-composition) : pipe
     * [Abstraction](ch4.md/#abstraction)
-    * [Revisiting Points](ch4.md/#revisiting-points)
+    * [Revisiting Points](ch4.md/#revisiting-points) : Point-free-style
     * [Summary](ch4.md/#summary)
 * [Chapter 5: Reducing Side Effects](ch5.md/#chapter-5-reducing-side-effects)
     * [Effects On The Side, Please](ch5.md/#effects-on-the-side-please) : pure_func_1 - no side causes/effects
