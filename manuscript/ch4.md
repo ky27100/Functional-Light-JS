@@ -295,7 +295,7 @@ You can also `curry(..)` a composition instead of partial application, though be
 
 **Note:** Because `curry(..)` (at least [the way we implemented it in Chapter 3](ch3.md/#user-content-curry)) relies on either detecting the arity (`length`) or having it manually specified, and `compose(..)` is a variadic function, you'll need to manually specify the intended arity like `curry(.. , 3)`.
 
-### Compose with Reduce : Alternative Implementations
+### Alternative Implementations : Compose with Reduce / Recursion
 
 While you may very well never implement your own `compose(..)` to use in production, and rather just use a library's implementation as provided, I've found that understanding how it works under the covers actually helps solidify general FP concepts very well.
 
