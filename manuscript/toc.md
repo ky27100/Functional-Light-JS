@@ -57,7 +57,7 @@
     * [Summary](ch3.md/#summary)
 * [Chapter 4: Composing Functions](ch4.md/#chapter-4-composing-functions)
     * [Output To Input](ch4.md/#output-to-input) : Candy Factory
-    * [General Composition](ch4.md/#general-composition): compose(with loop > reduce > recursion)
+    * [General Composition](ch4.md/#general-composition): composer with loop / reduce / reduce(lazy) / recursion
     * [Reordered Composition](ch4.md/#reordered-composition) : pipe
     * [Abstraction](ch4.md/#abstraction)
     * [Revisiting Points](ch4.md/#revisiting-points)
