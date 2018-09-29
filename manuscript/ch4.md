@@ -366,6 +366,7 @@ The performance characteristics will potentially be different than in the previo
 
 Your mileage may vary on which implementation is better, but keep in mind that this latter implementation isn't limited in argument count the way the former one is.
 
+---
 We could also define `compose(..)` using recursion. The recursive definition for `compose(fn1,fn2, .. fnN)` would look like:
 
 ```txt
