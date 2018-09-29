@@ -295,7 +295,7 @@ You can also `curry(..)` a composition instead of partial application, though be
 
 **Note:** Because `curry(..)` (at least [the way we implemented it in Chapter 3](ch3.md/#user-content-curry)) relies on either detecting the arity (`length`) or having it manually specified, and `compose(..)` is a variadic function, you'll need to manually specify the intended arity like `curry(.. , 3)`.
 
-### Alternative Implementations
+### Compose with Reduce : Alternative Implementations
 
 While you may very well never implement your own `compose(..)` to use in production, and rather just use a library's implementation as provided, I've found that understanding how it works under the covers actually helps solidify general FP concepts very well.
 
@@ -336,7 +336,7 @@ The advantage of this implementation is that the code is more concise and also t
 
 However, this implementation is limited in that the outer composed function (aka, the first function in the composition) can only receive a single argument. Most other implementations pass along all arguments to that first call. If every function in the composition is unary, this is no big deal. But if you need to pass multiple arguments to that first call, you'd want a different implementation.
 
-To fix that first call single-argument limitation, we can still use `reduce(..)` but produce a lazy-evaluation function wrapping:
+**To fix that first call single-argument limitation,** we can still use `reduce(..)` but produce a lazy-evaluation function wrapping:
 
 ```js
 function compose(...fns) {
