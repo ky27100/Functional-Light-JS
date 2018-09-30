@@ -60,6 +60,8 @@
     * [General Composition](ch4.md/#general-composition): compose with loop / reduce / reduce(lazy) / recursion
     * [Reordered Composition](ch4.md/#reordered-composition) : pipe
     * [Abstraction](ch4.md/#abstraction)
+        * Separation Enables Focus : What / How
+        * Composition as Abstraction
     * [Revisiting Points](ch4.md/#revisiting-points) : Point-free-style
     * [Summary](ch4.md/#summary)
 * [Chapter 5: Reducing Side Effects](ch5.md/#chapter-5-reducing-side-effects)
