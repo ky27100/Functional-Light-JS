@@ -629,7 +629,7 @@ function shorterWords(text) {
 var shorterWords = compose( skipLongWords, unique, words );
 ```
 
-The declarative form focuses on the *what* -- these three functions pipe data from a string to a list of shorter words -- and leaves the *how* to the internals of `compose(..)`.
+[The declarative form focuses on the ***what*** -- these three functions pipe data from a string to a list of shorter words -- and leaves the ***how*** to the internals of `compose(..)`.]()
 
 In a bigger sense, the `shorterWords = compose(..)` line explains the *how* for defining a `shorterWords(..)` utility, leaving this declarative line somewhere else in the code to focus only on the *what*:
 
