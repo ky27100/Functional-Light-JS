@@ -197,9 +197,7 @@ Generally, I'd recommend seeking balance in what you code, and to be conservativ
 
 > Reminder, any extensibility point that’s never used isn’t just wasted effort, it’s likely to also get in your way as well
 >
-> Jeremy D. Miller @jeremydmiller 2/20/15
->
-> https://twitter.com/jeremydmiller/status/568797862441586688
+> Jeremy D. Miller @jeremydmiller 2/20/15 (https://twitter.com/jeremydmiller/status/568797862441586688)
 
 Remember, every single line of code you write has a reader cost associated with it. That reader may be another team member, or even your future self. Neither of those readers will be impressed with overly clever, unnecessary sophistication just to show off your FP prowess.
 
