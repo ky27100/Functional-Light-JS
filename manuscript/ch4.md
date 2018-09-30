@@ -568,7 +568,7 @@ Aside from generalization vs. specialization, I think there's another more usefu
 >
 >  Michael L. “Chapter 3: Names, Scopes, and Bindings.” Programming Language Pragmatics, 4th ed., Morgan Kaufmann, 2015, pp. 115.
 
-The point this quote makes is that abstraction -- generally, pulling out some piece of code into its own function -- serves the primary purpose of separating apart two pieces of functionality so that it's possible to focus on each piece independently of the other.
+The point this quote makes is that **abstraction -- generally, pulling out some piece of code into its own function -- serves the primary purpose of separating apart two pieces of functionality** so that it's possible to focus on each piece independently of the other.
 
 Note that abstraction in this sense is not really intended to *hide* details, as if to treat things as black boxes we *never* examine.
 
