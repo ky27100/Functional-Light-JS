@@ -7,7 +7,7 @@ I wouldn't necessarily call this topic strictly "Functional-Light", but more lik
 
 To be honest, even after teaching transducing many times, and writing this chapter, I am still trying to fully wrap my brain around this technique. So don't feel bad if it twists you up. Bookmark this appendix and come back when you're ready.
 
-Transducing means transforming with reduction.
+**Transducing means transforming with reduction.**
 
 I know that may sound like a jumble of words that confuses more than it clarifies. But let's take a look at how powerful it can be. I actually think it's one of the best illustrations of what you can do once you grasp the principles of Functional-Light Programming.
 
