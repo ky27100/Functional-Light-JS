@@ -37,7 +37,7 @@
 
 <a name="middle"></a>
 ## [Functional-Light JavaScript](#top) *- detail*
-***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***   
+***[You Dont Konw JS][det_1]** --- **[Functional Light JS][det_2]** --- **[Understanding ES6][det_3]** --- **[Javascript Allongé-6th][det_4]***  
 *[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface) - Nov 27, 2017(388p) [By Kyle Simpson](https://github.com/getify)*
 * [Chapter 1: Why Functional Programming?](ch1.md/#chapter-1-why-functional-programming)
     * At a Glance -- Confidence -- Communication -- Readability
