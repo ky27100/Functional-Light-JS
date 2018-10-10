@@ -3,6 +3,8 @@ var fn10 = value => value * 10;
 var fn100 = value => value * 100;
 var fn1000 = value => value * 1000;
 
+var fn3 = (pa1, pa2, pa3) => pa1+pa2+pa3;
+
 function curryK(fn, arity){
 	return (function looping(paras){
 		return function curried(arg){
