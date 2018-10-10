@@ -1,3 +1,7 @@
+var fn1 = value => value * 1;
+var fn10 = value => value * 10;
+var fn100 = value => value * 100;
+var fn1000 = value => value * 1000;
 
 function curryK(fn, arity){
 	return (function looping(paras){
