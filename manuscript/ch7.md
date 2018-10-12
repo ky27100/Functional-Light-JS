@@ -600,7 +600,7 @@ I think variable reassignment can be quite useful, and when used appropriately, 
 
 As we learned in [Chapter 6](ch6.md), one of the best ways we prevent side effects from eroding the predictability of our code is to make sure we treat all state values as immutable, regardless of whether they are actually immutable (frozen) or not.
 
-If you're not using a purpose-built library to provide sophisticated immutable data structures, the simplest approach will suffice: duplicate your objects/arrays each time before making a change.
+If you're not using a purpose-built library to provide sophisticated immutable data structures, [the simplest approach will suffice: duplicate your objects/arrays each time before making a change.](#aa)
 
 Arrays are easy to clone shallowly -- just use `...` array spread:
 
