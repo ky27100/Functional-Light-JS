@@ -5,7 +5,7 @@
 
 We've already seen several brief references earlier in the text to some utilities that we now want to take a very close look at, namely `map(..)`, `filter(..)`, and `reduce(..)`. In JavaScript, these utilities are typically used as methods on **the array (aka, "list")** prototype, so we would naturally refer to them as array or list operations.
 
-Before we talk about the specific array methods, we want to examine conceptually what these operations are used for. It's equally important in this chapter that you understand *why* list operations are important as it is to understand *how* list operations work. Make sure you approach this chapter with that detail in mind.
+Before we talk about the specific array methods, we want to examine conceptually what these operations are used for. It's equally important in this chapter that you understand ***why* list operations are important** as it is to understand ***how* list operations work.** Make sure you approach this chapter with that detail in mind.
 
 The vast majority of common illustrations of these operations, both outside of this book and here in this chapter, depict trivial tasks performed on lists of values (like doubling each number in an array); it's a cheap and easy way to get the point across.
 
