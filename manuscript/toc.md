@@ -81,7 +81,7 @@
     * [Summary](ch6.md/#summary)
 * [Chapter 7: Closure vs Object](ch7.md/#chapter-7-closure-vs-object)
     * [The Same Page](ch7.md/#the-same-page)
-    * [Look Alike](ch7.md/#look-alike) - closures and objects are isomorphic representations of state
+    * [Look Alike](ch7.md/#look-alike)
         * State -- Behavior,Too! -- (Im)mutability -- Isomorphic -- Under the Hood
     * [Two Roads Diverged In A Wood...](ch7.md/#two-roads-diverged-in-a-wood)   
         * Structural Mutability -- Privacy -- [Cloning State](ch7.md#cloning-state) -- Performance
