@@ -65,10 +65,10 @@
     * [Revisiting Points](ch4.md/#revisiting-points) : Point-free-style
     * [Summary](ch4.md/#summary)
 * [Chapter 5: Reducing Side Effects](ch5.md/#chapter-5-reducing-side-effects)
-    * [Effects On The Side, Please](ch5.md/#effects-on-the-side-please) : pure_func_1 - no side causes/effects
-    * [Once Is Enough, Thanks](ch5.md/#once-is-enough-thanks) : pure_func_2 - Idempotent
+    * Func_1 - no side causes/effects : [Effects On The Side, Please](ch5.md/#effects-on-the-side-please)
+    * Func_2 - Idempotent : [Once Is Enough, Thanks](ch5.md/#once-is-enough-thanks)
     * [Pure Bliss](ch5.md/#pure-bliss)
-    * [There Or Not](ch5.md/#there-or-not) : pure_func_3 - Referential transparency
+    * Func_3 - Referential transparency : [There Or Not](ch5.md/#there-or-not)
         * [cache : Performance Effects](ch5.md/#performance-effects)
     * [Purifying](ch5.md/#purifying)
     * [Summary](ch5.md/#summary)
