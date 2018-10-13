@@ -73,7 +73,7 @@
 * [Chapter 6: Value Immutability](ch6.md/#chapter-6-value-immutability)
     * [Primitive Immutability](ch6.md/#primitive-immutability) -- [Value To Value](ch6.md/#value-to-value) -- [Reassignment](ch6.md/#reassignment) : const/constant
     * [Performance](ch6.md/#performance) -- [Treatment](ch6.md/#treatment) -- [Summary](ch6.md/#summary)
-* [Chapter 7: Closure vs Object](ch7.md/#chapter-7-closure-vs-object) --> :boom:Main-2: [Composition and Extension](https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/main_2_objects.md#composition-and-extension)
+* [Chapter 7: Closure vs Object](ch7.md/#chapter-7-closure-vs-object) --> :boom:[Main-2: Composition and Extension][det_4]
     * [The Same Page](ch7.md/#the-same-page)
     * [Look Alike](ch7.md/#look-alike)
         * State -- Behavior,Too! -- (Im)mutability -- Isomorphic -- Under the Hood
