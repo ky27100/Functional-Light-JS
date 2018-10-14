@@ -1,5 +1,5 @@
 # Functional-Light JavaScript
-# Chapter 9: List(Array in js) Operations
+# Chapter 9: List Operations
 
 > *If you can do something awesome, keep doing it repeatedly.*
 
