@@ -220,7 +220,7 @@ Depending on your perspective, filtering is either exclusionary or inclusionary.
 
 I think the most common interpretation of filtering -- outside of programming, anyway -- is that you filter out unwanted stuff. Unfortunately, in programming, we have essentially flipped this semantic to be more like filtering in wanted stuff.
 
-The `filter(..)` list operation takes a function to decide if each value in the original array should be in the new array or not. This function needs to return `true` if a value should make it, and `false` if it should be skipped. **A function that returns `true`/`false` for this kind of decision making goes by the special name: *predicate function.***
+The `filter(..)` list operation takes a function to decide if each value in the original array should be in the new array or not. This function needs to return `true` if a value should make it, and `false` if it should be skipped. **A function that returns `true`/`false` for this kind of decision making goes by the special name: [predicate function.](#aa)**
 
 If you think of `true` as indicating a positive signal, the definition of `filter(..)` is that you are saying "keep" (to filter in) a value rather than saying "discard" (to filter out) a value.
 
