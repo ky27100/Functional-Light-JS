@@ -33,7 +33,7 @@ And what does any of this have to do with functional programming? Pull up a chai
 
 ## The Same Page
 
-First, let's make sure we're all on the same page when we refer to closures and objects. We're obviously in the context of how JavaScript deals with these two mechanisms, and specifically talking about simple function closure (see [Chapter 2, "Keeping Scope"](ch2.md/#keeping-scope)) and simple objects (collections of key-value pairs).
+First, let's make sure we're all on the same page when we refer to closures and objects. We're obviously in the context of how JavaScript deals with these two mechanisms, and specifically talking about simple function closure (see [Chapter 2, "Keeping Scope"](ch2.md/#keeping-scope)) and simple objects ([collections of key-value pairs](#aa)).
 
 For the record, here's an illustration of a simple function closure:
 
