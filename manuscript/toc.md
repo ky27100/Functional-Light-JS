@@ -90,6 +90,8 @@
     * Key List operations : [Map](ch9.md/#map)( [Functor](ch9.md#a-word-functors) ) -- [Filter](ch9.md/#filter)( [Predicate](ch9.md#filtering-confusion) ) -- [Reduce](ch9.md/#reduce)
     * [Advanced List Operations](ch9.md/#advanced-list-operations) : Unique -- Flatten -- Zip -- Merge
     * [Method vs. Standalone](ch9.md/#method-vs-standalone)
+        * Composing Method Chains -- Composing Standalone Utilities
+        * Adapting Methods to Standalones -- Adapting Standalones to Methods
     * [Looking For Lists](ch9.md/#looking-for-lists) -- [Fusion](ch9.md/#fusion)
     * [Beyond Lists](ch9.md/#beyond-lists) -- [Summary](ch9.md/#summary)
 * [Chapter 10: Functional Async](ch10.md/#chapter-10-functional-async)
