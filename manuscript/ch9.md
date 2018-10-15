@@ -1522,4 +1522,4 @@ Other more advanced operations that are useful in processing lists: `unique(..)`
 
 Fusion uses function composition to consolidate multiple adjacent `map(..)` calls. This is mostly a performance optimization, but it also improves the declarative nature of your list operations.
 
-Lists are typically visualized as arrays, but can be generalized as any data structure that represents/produces an ordered collection of values. As such, all these "list operations" are actually "data structure operations".
+**Lists** are typically visualized as arrays, but can be generalized as **any data structure that represents/produces an ordered collection of values.** As such, all these "list operations" are actually "data structure operations".
