@@ -9,7 +9,7 @@ Before we talk about the specific array methods, we want to examine conceptually
 
 The vast majority of common illustrations of these operations, both outside of this book and here in this chapter, depict trivial tasks performed on lists of values (like doubling each number in an array); it's a cheap and easy way to get the point across.
 
-But don't just gloss over these simple examples and miss the deeper point. Some of the most important FP value in understanding list operations comes from **[being able to model a sequence of tasks](#aa) -- a series of statements that wouldn't otherwise *look* like a list -- as a list operation instead of performing them individually.**
+But don't just gloss over these simple examples and miss the deeper point. Some of the most important FP value in understanding list operations comes from **[being able to model a sequence of tasks](#aa)** -- a series of statements that wouldn't otherwise *look* like a list -- **as a list operation instead of performing them individually.**
 
 This isn't just a trick to write more terse code. What we're after is to move from imperative to declarative style, to make the code patterns more readily recognizable and thus more readable.
 
