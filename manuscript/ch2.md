@@ -1038,6 +1038,6 @@ Functions inside of functions can have closure over outer variables and remember
 
 Be careful of anonymous functions, especially `=>` arrow functions. They're convenient to write, but they shift the cost from author to reader. The whole reason we're studying FP here is to write more readable code, so don't be so quick to jump on that bandwagon.
 
-Don't use `this`-aware functions. Just don't.
+[Don't use `this`-aware functions. Just don't.](#aa)
 
 You should now be developing a clear and colorful perspective in your mind of what *function* means in Functional Programming. It's time to start wrangling functions to get them to interoperate, and the next chapter teaches you a variety of critical techniques you'll need along the way.
