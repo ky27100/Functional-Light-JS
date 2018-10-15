@@ -15,7 +15,7 @@ This isn't just a trick to write more terse code. What we're after is to move fr
 
 But there's something **even more important to grasp**. With imperative code, each intermediate result in a set of calculations is stored in variable(s) through assignment. The more of these imperative patterns your code relies on, the harder it is to verify that there aren't mistakes -- in the logic, accidental mutation of values, or hidden side causes/effects lurking.
 
-By chaining and/or composing list operations together, the intermediate results are tracked implicitly and largely protected from these hazards.
+By **[chaining and/or composing list operations together](#aa)**, the intermediate results are tracked implicitly and largely protected from these hazards.
 
 **Note:** More than previous chapters, to keep the many following code snippets as brief as possible, we'll rely heavily on the ES6 `=>` form. However, my [advice on `=>` from Chapter 2](ch2.md/#functions-without-function) still applies for general coding.
 
