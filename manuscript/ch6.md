@@ -501,7 +501,7 @@ Be disciplined and always treat *received values* as immutable, whether they are
 
 ## Summary
 
-**Value immutability is not about unchanging values. It's about creating and tracking new values as the state of the program changes, rather than mutating existing values.** This approach leads to more confidence in reading the code, because we limit the places where our state can change in ways we don't readily see or expect.
+Value immutability is not about unchanging values. **It's about creating and tracking new values as the state of the program changes, rather than mutating existing values.** This approach leads to more confidence in reading the code, because we limit the places where our state can change in ways we don't readily see or expect.
 
 `const` declarations (constants) are commonly mistaken for their ability to signal intent and enforce immutability. In reality, `const` has basically nothing to do with value immutability, and its usage will likely create more confusion than it solves. Instead, `Object.freeze(..)` provides a nice built-in way of setting shallow value immutability on an array or object. In many cases, this will be sufficient.
 
