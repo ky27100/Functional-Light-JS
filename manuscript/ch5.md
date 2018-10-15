@@ -1,7 +1,7 @@
 # Functional-Light JavaScript
 # Chapter 5: Reducing Side Effects
 
-In [Chapter 2](ch2.md), we discussed how a function can have outputs besides its `return` value. By now you should be very comfortable with the FP definition of a function, so the idea of such side outputs -- side effects! -- should smell.
+In Chapter 2, we discussed how a function can have outputs besides its `return` value. By now you should be very comfortable with the FP definition of a function, so the idea of such side outputs -- side effects! -- should smell.
 
 We're going to examine the various different forms of side effects and see why they are harmful to our code's quality and readability.
 
