@@ -413,6 +413,7 @@ function reduce(reducerFn,initialValue,arr) {
 
 Just as with `map(..)` and `filter(..)`, the reducer function is also passed the lesser-common `idx` and `arr` arguments in case that's useful to the reduction. I would say I don't typically use these, but I guess it's nice to have them available.
 
+---
 Recall in [Chapter 4, we discussed the `compose(..)` utility](ch4.md/#user-content-composereduce) and showed an implementation with `reduce(..)`:
 
 ```js
