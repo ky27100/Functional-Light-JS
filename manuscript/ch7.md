@@ -728,6 +728,7 @@ The truth of this chapter cannot be written out. One must read this chapter to f
 
 **Objects and closures are isomorphic to each other, which means that they can be used somewhat interchangeably to represent state and behavior in your program.**
 
-Representation as a closure has certain benefits, like granular change control and automatic privacy. Representation as an object has other benefits, like easier cloning of state.
+Representation as a closure has certain benefits, like granular change control and automatic privacy.     
+Representation as an object has other benefits, like easier cloning of state.
 
 The critically thinking FPer should be able to conceive any segment of state and behavior in the program with either representation, and pick the representation that's most appropriate for the task at hand.
