@@ -724,11 +724,7 @@ I just want to reiterate: these performance observations are not absolutes, and 
 
 ## Summary
 
-The truth of this chapter cannot be written out. One must read this chapter to find its truth.
-
-----
-
-Coining some Zen wisdom here was my attempt at being clever. But you deserve a proper summary of this chapter's message.
+The truth of this chapter cannot be written out. One must read this chapter to find its truth. Coining some Zen wisdom here was my attempt at being clever. But you deserve a proper summary of this chapter's message.
 
 **Objects and closures are isomorphic to each other, which means that they can be used somewhat interchangeably to represent state and behavior in your program.**
 
