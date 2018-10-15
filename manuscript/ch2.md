@@ -924,7 +924,7 @@ If you're not familiar with the `this` binding rules in JavaScript, I recommend 
 
 JavaScript `function`s have a `this` keyword that's automatically bound per function call. The `this` keyword can be described in many different ways, but I prefer to say **it provides an object context for the function to run against.**
 
-`this` is an implicit parameter input for your function.
+**`this` is an implicit parameter input for your function.**
 
 Consider:
 
