@@ -60,7 +60,7 @@ var x = 2, y;
 y = multiplyBy3( x );
 ```
 
-We can naturally extend mapping from a single value transformation to a collection of values. `map(..)` is an operation that transforms all the values of a list as it projects them to a new list:
+We can naturally extend mapping from a single value transformation to a collection of values. [`map(..)` is an operation that transforms all the values of a list as it projects them to a new list:](#aa)
 
 <p align="center">
     <img src="images/fig9.png" width="50%">
