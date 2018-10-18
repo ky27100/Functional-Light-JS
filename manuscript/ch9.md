@@ -526,10 +526,10 @@ var isOdd = v => v % 2 == 1;
 // [1,3,5]
 
 [1,2,3,4,5].reduce(
-    (list,v) => (                                   // (list, v) => (isOdd(v) ? list.push(v) : undefined, list) <= Comma Operator
-        isOdd( v ) ? list.push( v ) : undefined,    // (list, v) => isOdd(v) ? list.concat(v) : list            <= return new Array
-        list                                        // (list, v) => isOdd(v) ? [...list, v] : list              <= return new Array
-    ), [] 
+    (list,v) => (               // (list, v) => (isOdd(v) ? list.push(v) : undefined, list) <= Comma Operator !!!
+        isOdd( v ) ? list.push( v ) : undefined,    
+        list                    // (list, v) => isOdd(v) ? list.concat(v) : list            <= return new Array
+    ), []                       // (list, v) => isOdd(v) ? [...list, v] : list              <= return new Array
 );
 // [1,3,5]
 ```
