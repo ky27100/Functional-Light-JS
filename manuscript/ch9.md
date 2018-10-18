@@ -504,7 +504,7 @@ var double = v => v * 2;
     (list,v) => (              // Comma operator !!!
         list.push( double( v ) ),
         list
-    ), []
+    ), []                     // (list, v) => list.concat(double(v))
 );
 // [2,4,6,8,10]
 ```
@@ -529,13 +529,13 @@ var isOdd = v => v % 2 == 1;
     (list,v) => (             // Comma operator !!!
         isOdd( v ) ? list.push( v ) : undefined,
         list
-    ), []
+    ), []                    // (list, v) => isOdd(v) ? list.concat(v) : list
 );
 // [1,3,5]
 ```
 **[Comma operator:](https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/main_0_functions.md#commas)** good choice by KY. :thumbsup:
 
-**Note:** More impure reducer cheating here. Instead of `list.push(..)`, we could have done `list.concat(..)` and returned the new list. We'll come back to this [cheat in Appendix A](apA.md/#user-content-cheating).
+**Note:** More impure reducer cheating here. Instead of `list.push(..)`, we could have done **`list.concat(..)` and returned the new list**. We'll come back to this [cheat in Appendix A](apA.md/#user-content-cheating).
 
 ## Advanced List Operations
 
