@@ -501,10 +501,10 @@ var double = v => v * 2;
 // [2,4,6,8,10]
 
 [1,2,3,4,5].reduce(
-    (list,v) => (                       // (list, v) => (list.push(double(v)), list)    <= Comma operator !!!
-        list.push( double( v ) ),       // (list, v) => list.concat(double(v))          <= return new Array
-        list                            // (list, v) => [...list, double(v)]            <= return new Array       
-    ), [] 
+    (list,v) => (           // (list, v) => (list.push(double(v)), list)    <= Comma operator !!!
+        list.push( double( v ) ),
+        list                // (list, v) => list.concat(double(v))          <= return new Array    
+    ), []                   // (list, v) => [...list, double(v)]            <= return new Array   
 );
 // [2,4,6,8,10]
 ```
