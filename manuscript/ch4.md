@@ -334,7 +334,7 @@ Notice that the `reduce(..)` looping happens each time the final `composed(..)` 
 
 The advantage of this implementation is that the code is more concise and also that it uses a well-known FP construct: `reduce(..)`. And the performance of this implementation is also similar to the original `for`-loop version.
 
-However, this implementation is limited in that the outer composed function (aka, the first function in the composition) can only receive a single argument. Most other implementations pass along all arguments to that first call. If every function in the composition is unary, this is no big deal. But if you need to pass multiple arguments to that first call, you'd want a different implementation.
+However, **this implementation is limited in that the outer composed function (aka, the first function in the composition) can only receive a single argument.** Most other implementations pass along all arguments to that first call. If every function in the composition is unary, this is no big deal. But if you need to pass multiple arguments to that first call, you'd want a different implementation.
 
 ---
 **To fix that first call single-argument limitation,** we can still use `reduce(..)` but produce a lazy-evaluation function wrapping:
