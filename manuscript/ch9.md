@@ -370,7 +370,7 @@ Alternatively, you can omit the `initialValue` in which case the first value of 
 
 **Warning:** In JavaScript, if there's not at least one value in the reduction (either in the array or specified as `initialValue`), an error is thrown. Be careful not to omit the `initialValue` if the list for the reduction could possibly be empty under any circumstance.
 
-The function you pass to `reduce(..)` to perform the reduction is typically called a reducer. A reducer has a different signature from the mapper and predicate functions we looked at earlier. Reducers primarily receive the current reduction result as well as the next value to reduce it with. The current result at each step of the reduction is often referred to as the accumulator.
+**The function you pass to `reduce(..)` to perform the reduction is typically called a reducer.** A reducer has a different signature from the mapper and predicate functions we looked at earlier. Reducers primarily receive the current reduction result as well as the next value to reduce it with. The current result at each step of the reduction is often referred to as the accumulator.
 
 For example, consider the steps involved in multiply-reducing the numbers `5`, `10`, and `15`, with an `initialValue` of `3`:
 
@@ -476,9 +476,6 @@ var hyphenate = (str,char) => `${str}-${char}`;
 ["a","b","c"].reduceRight( hyphenate );
 // "c-b-a"
 ```
-
-<a name="composereduceright"></a>
-
 Where `reduce(..)` works left-to-right and thus acts naturally like `pipe(..)` in composing functions, `reduceRight(..)`'s right-to-left ordering is natural for performing a `compose(..)`-like operation. So, let's revisit [`compose(..)` from Chapter 4](ch4.md/#user-content-composereduce), but implement it using `reduceRight(..)`:
 
 ```js
