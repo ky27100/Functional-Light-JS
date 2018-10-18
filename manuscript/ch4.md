@@ -357,7 +357,7 @@ var compose =
         );
 ```
 
-Notice that we return the result of the `reduce(..)` call directly, which is itself a function, not a computed result. *That* function lets us pass in as many arguments as we want, passing them all down the line to the first function call in the composition, then bubbling up each result through each subsequent call.
+Notice that we return the result of the `reduce(..)` call directly, **[which is itself a function, not a computed result.](#aa)** *That* function lets us pass in as many arguments as we want, passing them all down the line to the first function call in the composition, then bubbling up each result through each subsequent call.
 
 Instead of calculating the running result and passing it along as the `reduce(..)` looping proceeds, [this implementation runs the `reduce(..)` looping **once** up front at composition time, and **defers all the function call calculations -- referred to as lazy calculation.**]() Each partial result of the reduction is a successively more wrapped function.
 
