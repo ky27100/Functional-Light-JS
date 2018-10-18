@@ -585,7 +585,7 @@ Functions that treat other functions as values are higher-order functions by def
 
 ### Keeping Scope
 
-One of the most powerful things in all of programming, and especially in FP, is how a function behaves when it's inside another function's scope. When the inner function makes reference to a variable from the outer function, this is called closure.
+One of the most powerful things in all of programming, and especially in FP, is how a function behaves when it's inside another function's scope. **When the inner function makes reference to a variable from the outer function, this is called closure.**
 
 Defined pragmatically:
 
