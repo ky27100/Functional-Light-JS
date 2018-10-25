@@ -3,37 +3,19 @@
 ***[You Dont Konw JS]** --- **[Functional Light JS]** --- **[Understanding ES6]** --- **[Javascript Allongé-6th]***     
 *[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface) - Nov 27, 2017(388p) [By Kyle Simpson](https://github.com/getify)*
 * [Chapter 1: Why Functional Programming?](ch1.md#functional-light-javascript)
-    * At a Glance -- Confidence -- Communication -- Readability
-    * Perspective -- How to Find Balance -- Resources -- Summary
 * [Chapter 2: The Nature Of Functions](ch2.md#functional-light-javascript)
-    * What Is A Function? -- Function Input -- Named Arguments -- Function Output
-    * Functions Of Functions -- Syntax -- What's This? -- Summary
 * [Chapter 3: Managing Function Inputs](ch3.md#functional-light-javascript)
-    * All For One -- Adapting Arguments to Parameters -- Some Now, Some Later
-    * One At A Time -- Order Matters -- No Points -- Summary
 * [Chapter 4: Composing Functions](ch4.md#functional-light-javascript)
-    * Output To Input -- General Composition -- Reordered Composition -- Abstraction -- Revisiting Points -- Summary
 * [Chapter 5: Reducing Side Effects](ch5.md#functional-light-javascript)
-    * Effects On The Side, Please -- Once Is Enough, Thanks -- Pure Bliss -- There Or Not -- Purifying -- Summary
 * [Chapter 6: Value Immutability](ch6.md#functional-light-javascript)
-    * Primitive Immutability -- Value To Value -- Reassignment -- Performance -- Treatment -- Summary
 * [Chapter 7: Closure vs Object](ch7.md#functional-light-javascript)
-    * The Same Page -- Look Alike -- Two Roads Diverged In A Wood... -- Summary
 * [Chapter 8: Recursion](ch8.md#functional-light-javascript)
-    * Definition -- Declarative Recursion -- Stack -- Rearranging Recursion -- Summary
 * [Chapter 9: List Operations](ch9.md#functional-light-javascript)
-    * Non-FP List Processing -- Map -- Filter -- Reduce -- Advanced List Operations
-    * Method vs. Standalone -- Looking For Lists -- Fusion -- Beyond Lists -- Summary
 * [Chapter 10: Functional Async](ch10.md#functional-light-javascript)
-    * Time As State -- Eager vs Lazy -- Reactive FP -- Summary
 * [Chapter 11: Putting It All Together](ch11.md#functional-light-javascript)
-    * Setup -- Stock Events -- Stock Ticker UI -- Summary
 * [Appendix A: Transducing](apA.md#functional-light-javascript)
-    * Why, First -- How, Next -- What, Finally
 * [Appendix B: The Humble Monad](apB.md#functional-light-javascript)
-    * Type -- Loose Interface -- Just a Monad -- Maybe -- Humble
 * [Appendix C: FP Libraries](apC.md#functional-light-javascript) / [FL-helper.js](FL-helper.js) / [FK-helper.js](FK-helper.js)
-    * Stuff to Investigate -- Ramda -- Lodash/fp -- Mori -- Bonus: FPO --  Bonus #2: fasy
 
 <a name="middle"></a>
 ## [Functional-Light JavaScript](#top) *- detail*
