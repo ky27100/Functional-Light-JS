@@ -21,10 +21,10 @@
 ## [Functional-Light JavaScript](#top) *- detail*
 ***[You Dont Konw JS][det_1]** --- **[Functional Light JS][det_2]** --- **[Understanding ES6][det_3]** --- **[Javascript Allongé-6th][det_4]***  
 *[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface) - Nov 27, 2017(388p) [By Kyle Simpson](https://github.com/getify)*
-* [Chapter 1: Why Functional Programming?](ch1.md#functional-light-javascript)
+* Chapt 1. [Why Functional Programming?](ch1.md#functional-light-javascript)
     * At a Glance -- Confidence -- Communication -- Readability
     * Perspective -- How to Find Balance -- Resources -- Summary
-* [Chapter 2: The Nature Of Functions](ch2.md#functional-light-javascript)
+* Chap 2. [The Nature Of Functions](ch2.md#functional-light-javascript)
     * [What Is A Function?](ch2.md/#what-is-a-function)
     * [Function Input](ch2.md/#function-input) -- [Named Arguments](ch2.md/#named-arguments) -- [Function Output](ch2.md/#function-output)
     * [Functions Of Functions](ch2.md/#functions-of-functions) : higher-order function & Closure
