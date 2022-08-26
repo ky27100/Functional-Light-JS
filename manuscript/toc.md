@@ -25,10 +25,10 @@
     * At a Glance -- Confidence -- Communication -- Readability
     * Perspective -- How to Find Balance -- Resources -- Summary
 * 2 - [The Nature Of Functions](ch2.md#functional-light-javascript)
-    * [What Is A Function?](ch2.md/#what-is-a-function)
-    * [Function Input](ch2.md/#function-input) -- [Named Arguments](ch2.md/#named-arguments) -- [Function Output](ch2.md/#function-output)
-    * [Functions Of Functions](ch2.md/#functions-of-functions) : higher-order function & Closure
-    * [Syntax](ch2.md/#syntax) -- :boom:[What's This?](ch2.md/#whats-this) -- [Summary](ch2.md/#summary)
+    * What Is A Function?
+    * Function Input -- Named Arguments -- Function Output
+    * Functions Of Functions : higher-order function & Closure
+    * Syntax -- :boom:[What's This?](ch2.md/#whats-this) -- [Summary](ch2.md/#summary)
 * 3 - [Managing Function Inputs](ch3.md#functional-light-javascript)
     * [All For One](ch3.md/#all-for-one) : unary / identity / constant
     * [Adapting Arguments to Parameters](ch3.md/#adapting-arguments-to-parameters) : spreadArgs / gatherArgs
