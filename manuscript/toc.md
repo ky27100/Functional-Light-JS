@@ -83,14 +83,16 @@
         * Replacing the Stack -- Continuation Passing Style(CPS) -- Trampolines
     * [Summary](ch8.md/#summary)
 * 9 : [List Operations](ch9.md#functional-light-javascript)
-    * [Non-FP List Processing](ch9.md/#non-fp-list-processing) : forEach, some, every
-    * Key List operations : [Map](ch9.md/#map)( [Functor](ch9.md#a-word-functors) ) -- [Filter](ch9.md/#filter)( [Predicate](ch9.md#filtering-confusion) ) -- [Reduce](ch9.md/#reduce)
-    * [Advanced List Operations](ch9.md/#advanced-list-operations) : Unique -- Flatten -- Zip -- Merge
-    * [Method vs. Standalone](ch9.md/#method-vs-standalone)
+    * Non-FP List Processing : forEach, some, every
+    * Key List operations : Map(Functor) -- Filter(Predicate) -- Reduce
+    * Advanced List Operations : Unique -- Flatten -- Zip -- Merge
+    * Method vs. Standalone
         * Composing Method Chains -- Composing Standalone Utilities
         * Adapting Methods to Standalones -- Adapting Standalones to Methods
-    * [Looking For Lists](ch9.md/#looking-for-lists) -- [Fusion](ch9.md/#fusion)
-    * [Beyond Lists](ch9.md/#beyond-lists) -- [Summary](ch9.md/#summary)
+    * Looking For Lists
+    * Fusion
+    * Beyond Lists
+    * Summary
 * 10 : [Functional Async](ch10.md#functional-light-javascript)
     * [Time As State](ch10.md/#time-as-state)
     * [Eager vs Lazy](ch10.md/#eager-vs-lazy)
