@@ -58,7 +58,8 @@
     * Summary
 * 5 : [Reducing Side Effects](ch5.md#functional-light-javascript)
     * Func_1 - no side causes/effects : Effects On The Side, Please
-    * Func_2 - Idempotent : Once Is Enough, Thanks -- [Pure Bliss](ch5.md/#pure-bliss)
+    * Func_2 - Idempotent : Once Is Enough, Thanks
+    * Pure Bliss
     * Func_3 - Referential transparency : There Or Not
         * cache : Performance Effects
     * Purifying
