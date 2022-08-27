@@ -26,9 +26,13 @@
     * Perspective -- How to Find Balance -- Resources -- Summary
 * 2 : [The Nature Of Functions](ch2.md#functional-light-javascript)
     * What Is A Function?
-    * Function Input -- Named Arguments -- Function Output
+    * Function Input
+    * Named Arguments
+    * Function Output
     * Functions Of Functions : higher-order function & Closure
-    * Syntax -- :boom:What's This? -- Summary
+    * Syntax 
+    * What's This?
+    * Summary
 * 3 : [Managing Function Inputs](ch3.md#functional-light-javascript)
     * [All For One](ch3.md/#all-for-one) : unary / identity / constant
     * [Adapting Arguments to Parameters](ch3.md/#adapting-arguments-to-parameters) : spreadArgs / gatherArgs
