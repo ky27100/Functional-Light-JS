@@ -30,7 +30,6 @@
     * How to Find Balance
     * Resources
     * Summary
-
 * 2 : [The Nature Of Functions](ch2.md#functional-light-javascript)
     * What Is A Function?
     * Function Input
@@ -40,7 +39,6 @@
     * Syntax 
     * What's This?
     * Summary
-
 * 3 : [Managing Function Inputs](ch3.md#functional-light-javascript)
     * All For One : unary / identity / constant
     * Adapting Arguments to Parameters : spreadArgs / gatherArgs
@@ -49,7 +47,6 @@
     * Order Matters : partialProps / curryProps / spreadArgProps
     * No Points(point-free style) : unary / not / when
     * Summary
-
 * 4 : [Composing Functions](ch4.md#functional-light-javascript)
     * Output To Input : Candy Factory
     * General Composition : compose with loop / reduce / reduce(lazy) / recursion
@@ -59,7 +56,6 @@
         * Composition as Abstraction : What / How
     * Revisiting Points : Point-free-style
     * Summary
-
 * 5 : [Reducing Side Effects](ch5.md#functional-light-javascript)
     * Func_1 - no side causes/effects : Effects On The Side, Please
     * Func_2 - Idempotent : Once Is Enough, Thanks -- [Pure Bliss](ch5.md/#pure-bliss)
@@ -67,7 +63,6 @@
         * cache : Performance Effects
     * Purifying
     * Summary
-
 * 6 : [Value Immutability](ch6.md#functional-light-javascript)
     * Primitive Immutability
     * Value To Value
@@ -75,7 +70,6 @@
     * Performance
     * Treatment
     * Summary
-
 * 7 : [Closure vs Object](ch7.md#functional-light-javascript) --> :boom:[Main-2: Composition and Extension][det_4]
     * [The Same Page](ch7.md/#the-same-page)
     * [Look Alike](ch7.md/#look-alike)
@@ -83,13 +77,11 @@
     * [Two Roads Diverged In A Wood...](ch7.md/#two-roads-diverged-in-a-wood)   
         * Structural Mutability -- Privacy -- [Cloning State](ch7.md#cloning-state) -- Performance
     * [Summary](ch7.md/#summary)
-
 * 8 : [Recursion](ch8.md#functional-light-javascript)
     * [Definition](ch8.md/#definition) -- [Declarative Recursion](ch8.md/#declarative-recursion)
     * [Stack](ch8.md/#stack) -- [Rearranging Recursion](ch8.md/#rearranging-recursion)
         * Replacing the Stack -- Continuation Passing Style(CPS) -- Trampolines
     * [Summary](ch8.md/#summary)
-
 * 9 : [List Operations](ch9.md#functional-light-javascript)
     * [Non-FP List Processing](ch9.md/#non-fp-list-processing) : forEach, some, every
     * Key List operations : [Map](ch9.md/#map)( [Functor](ch9.md#a-word-functors) ) -- [Filter](ch9.md/#filter)( [Predicate](ch9.md#filtering-confusion) ) -- [Reduce](ch9.md/#reduce)
@@ -99,18 +91,17 @@
         * Adapting Methods to Standalones -- Adapting Standalones to Methods
     * [Looking For Lists](ch9.md/#looking-for-lists) -- [Fusion](ch9.md/#fusion)
     * [Beyond Lists](ch9.md/#beyond-lists) -- [Summary](ch9.md/#summary)
-
 * 10 : [Functional Async](ch10.md#functional-light-javascript)
     * [Time As State](ch10.md/#time-as-state)
     * [Eager vs Lazy](ch10.md/#eager-vs-lazy)
     * [Reactive FP](ch10.md/#reactive-fp)
     * [Summary](ch10.md/#summary)
-
 * 11 : [Putting It All Together](ch11.md#functional-light-javascript)
     * [Setup](ch11.md/#setup)
     * [Stock Events](ch11.md/#stock-events)
     * [Stock Ticker UI](ch11.md/#stock-ticker-ui)
     * [Summary](ch11.md/#summary)
+
 
 * Appendix A [Transducing](apA.md#functional-light-javascript)
     * Why, First -- How, Next -- What, Finally
