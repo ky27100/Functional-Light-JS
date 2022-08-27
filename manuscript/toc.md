@@ -101,8 +101,6 @@
     * [Stock Events](ch11.md/#stock-events)
     * [Stock Ticker UI](ch11.md/#stock-ticker-ui)
     * [Summary](ch11.md/#summary)
-
-
 * Appendix A [Transducing](apA.md#functional-light-javascript)
     * Why, First -- How, Next -- What, Finally
 * Appendix B [The Humble Monad](apB.md#functional-light-javascript)
