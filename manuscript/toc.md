@@ -42,23 +42,28 @@
     * No Points(point-free style) : unary / not / when
     * Summary
 * 4 : [Composing Functions](ch4.md#functional-light-javascript)
-    * [Output To Input](ch4.md/#output-to-input) : Candy Factory
-    * [General Composition](ch4.md/#general-composition): compose with loop / reduce / reduce(lazy) / recursion
-    * [Reordered Composition](ch4.md/#reordered-composition) : pipe
-    * [Abstraction](ch4.md/#abstraction)
+    * Output To Input : Candy Factory
+    * General Composition : compose with loop / reduce / reduce(lazy) / recursion
+    * Reordered Composition : pipe
+    * Abstraction
         * Separation Enables Focus : What / How
         * Composition as Abstraction : What / How
-    * [Revisiting Points](ch4.md/#revisiting-points) : Point-free-style
-    * [Summary](ch4.md/#summary)
+    * Revisiting Points : Point-free-style
+    * Summary
 * 5 : [Reducing Side Effects](ch5.md#functional-light-javascript)
-    * Func_1 - no side causes/effects : [Effects On The Side, Please](ch5.md/#effects-on-the-side-please)
-    * Func_2 - Idempotent : [Once Is Enough, Thanks](ch5.md/#once-is-enough-thanks) -- [Pure Bliss](ch5.md/#pure-bliss)
-    * Func_3 - Referential transparency : [There Or Not](ch5.md/#there-or-not)
-        * [cache : Performance Effects](ch5.md/#performance-effects)
-    * [Purifying](ch5.md/#purifying) -- [Summary](ch5.md/#summary)
+    * Func_1 - no side causes/effects : Effects On The Side, Please
+    * Func_2 - Idempotent : Once Is Enough, Thanks -- [Pure Bliss](ch5.md/#pure-bliss)
+    * Func_3 - Referential transparency : There Or Not
+        * cache : Performance Effects
+    * Purifying
+    * Summary
 * 6 : [Value Immutability](ch6.md#functional-light-javascript)
-    * [Primitive Immutability](ch6.md/#primitive-immutability) -- [Value To Value](ch6.md/#value-to-value) -- [Reassignment](ch6.md/#reassignment) : const/constant
-    * [Performance](ch6.md/#performance) -- [Treatment](ch6.md/#treatment) -- [Summary](ch6.md/#summary)
+    * Primitive Immutability
+    * Value To Value
+    * Reassignment : const/constant
+    * Performance
+    * Treatment
+    * Summary
 * 7 : [Closure vs Object](ch7.md#functional-light-javascript) --> :boom:[Main-2: Composition and Extension][det_4]
     * [The Same Page](ch7.md/#the-same-page)
     * [Look Alike](ch7.md/#look-alike)
