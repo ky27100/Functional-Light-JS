@@ -34,13 +34,13 @@
     * What's This?
     * Summary
 * 3 : [Managing Function Inputs](ch3.md#functional-light-javascript)
-    * [All For One](ch3.md/#all-for-one) : unary / identity / constant
-    * [Adapting Arguments to Parameters](ch3.md/#adapting-arguments-to-parameters) : spreadArgs / gatherArgs
-    * [Some Now, Some Later](ch3.md/#some-now-some-later) : partial / partialRight / reverseArgs
-    * [One At A Time](ch3.md/#one-at-a-time) : curry / looseCurry / uncurry
-    * [Order Matters](ch3.md/#order-matters) : partialProps / curryProps / spreadArgProps
-    * [No Points(point-free style)](ch3.md/#no-points) : unary / not / when
-    * [Summary](ch3.md/#summary)
+    * All For One : unary / identity / constant
+    * Adapting Arguments to Parameters : spreadArgs / gatherArgs
+    * Some Now, Some Later : partial / partialRight / reverseArgs
+    * One At A Time : curry / looseCurry / uncurry
+    * Order Matters : partialProps / curryProps / spreadArgProps
+    * No Points(point-free style) : unary / not / when
+    * Summary
 * 4 : [Composing Functions](ch4.md#functional-light-javascript)
     * [Output To Input](ch4.md/#output-to-input) : Candy Factory
     * [General Composition](ch4.md/#general-composition): compose with loop / reduce / reduce(lazy) / recursion
