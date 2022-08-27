@@ -71,17 +71,19 @@
     * Treatment
     * Summary
 * 7 : [Closure vs Object](ch7.md#functional-light-javascript) --> :boom:[Main-2: Composition and Extension][det_4]
-    * [The Same Page](ch7.md/#the-same-page)
-    * [Look Alike](ch7.md/#look-alike)
+    * The Same Page
+    * Look Alike
         * State -- Behavior,Too! -- (Im)mutability -- Isomorphic -- Under the Hood
-    * [Two Roads Diverged In A Wood...](ch7.md/#two-roads-diverged-in-a-wood)   
-        * Structural Mutability -- Privacy -- [Cloning State](ch7.md#cloning-state) -- Performance
-    * [Summary](ch7.md/#summary)
+    * Two Roads Diverged In A Wood...   
+        * Structural Mutability -- Privacy -- Cloning State -- Performance
+    * Summary
 * 8 : [Recursion](ch8.md#functional-light-javascript)
-    * [Definition](ch8.md/#definition) -- [Declarative Recursion](ch8.md/#declarative-recursion)
-    * [Stack](ch8.md/#stack) -- [Rearranging Recursion](ch8.md/#rearranging-recursion)
+    * Definition
+    * Declarative Recursion
+    * Stack
+    * Rearranging Recursion
         * Replacing the Stack -- Continuation Passing Style(CPS) -- Trampolines
-    * [Summary](ch8.md/#summary)
+    * Summary
 * 9 : [List Operations](ch9.md#functional-light-javascript)
     * Non-FP List Processing : forEach, some, every
     * Key List operations : Map(Functor) -- Filter(Predicate) -- Reduce
@@ -94,15 +96,15 @@
     * Beyond Lists
     * Summary
 * 10 : [Functional Async](ch10.md#functional-light-javascript)
-    * [Time As State](ch10.md/#time-as-state)
-    * [Eager vs Lazy](ch10.md/#eager-vs-lazy)
-    * [Reactive FP](ch10.md/#reactive-fp)
-    * [Summary](ch10.md/#summary)
+    * Time As State
+    * Eager vs Lazy
+    * Reactive FP
+    * Summary
 * 11 : [Putting It All Together](ch11.md#functional-light-javascript)
-    * [Setup](ch11.md/#setup)
-    * [Stock Events](ch11.md/#stock-events)
-    * [Stock Ticker UI](ch11.md/#stock-ticker-ui)
-    * [Summary](ch11.md/#summary)
+    * Setup
+    * Stock Events
+    * Stock Ticker UI
+    * Summary
 * Appendix A [Transducing](apA.md#functional-light-javascript)
     * Why, First -- How, Next -- What, Finally
 * Appendix B [The Humble Monad](apB.md#functional-light-javascript)
