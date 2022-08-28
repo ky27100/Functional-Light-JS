@@ -24,7 +24,9 @@
 * Appendix B [The Humble Monad](apB.md#functional-light-javascript)
 * Appendix C [FP Libraries](apC.md#functional-light-javascript) / [FL-helper.js](FL-helper.js) / [FK-helper.js](FK-helper.js)
 
+---
 <a name="middle"></a>
+***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
 ## [Functional-Light JavaScript](#top) *- detail*
 ***[You Dont Konw JS][det_1]** --- **[Functional Light JS][det_2]** --- **[Understanding ES6][det_3]** --- **[Javascript Allongé-6th][det_4]***  
 *[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface) - Nov 27, 2017(388p) [By Kyle Simpson](https://github.com/getify)*
