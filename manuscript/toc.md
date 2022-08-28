@@ -80,10 +80,8 @@
     * Summary
 * 7 : [Closure vs Object](ch7.md#functional-light-javascript) --> :boom:[Composition instead of Inheritance](https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/main_2_objects.md#is-encapsulation-object-oriented)
     * The Same Page
-    * Look Alike
-        * State -- Behavior,Too! -- (Im)mutability -- Isomorphic -- Under the Hood
-    * Two Roads Diverged In A Wood...   
-        * Structural Mutability -- Privacy -- Cloning State -- Performance
+    * Look Alike : Closure & Object
+    * Two Roads Diverged In A Wood...
     * Summary
 * 8 : [Recursion](ch8.md#functional-light-javascript)
     * Definition
