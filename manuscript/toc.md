@@ -1,6 +1,13 @@
 <a name="top"></a>
+***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
+
+[YDK JS]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed/toc.md#top
+[YDK JS Yet]: https://github.com/ky27100/You-Dont-Know-JS/blob/2nd-ed/toc.md#top
+[Functional Light JS]: https://github.com/ky27100/Functional-Light-JS/blob/master/manuscript/toc.md#top
+[Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
+[JS Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
+
 ## [Functional-Light JavaScript](#middle)
-***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***    
 *[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface) - Nov 27, 2017(388p) [By Kyle Simpson](https://github.com/getify)*
 * 1 : [Why Functional Programming?](ch1.md#functional-light-javascript)
 * 2 : [The Nature Of Functions](ch2.md#functional-light-javascript)
@@ -112,14 +119,3 @@
     * Type -- Loose Interface -- Just a Monad -- Maybe -- Humble
 * Appendix C [FP Libraries](apC.md#functional-light-javascript) / [FL-helper.js](FL-helper.js) / [FK-helper.js](FK-helper.js)
     * Stuff to Investigate -- Ramda -- Lodash/fp -- Mori -- Bonus #1: FPO -- Bonus #2: fasy
-    
-[YDK JS]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed/toc.md#top
-[YDK JS Yet]: https://github.com/ky27100/You-Dont-Know-JS/blob/2nd-ed/toc.md#top
-[Functional Light JS]: https://github.com/ky27100/Functional-Light-JS/blob/master/manuscript/toc.md#top
-[Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
-[JS Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
-
-[det_1]: https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
-[det_2]: https://github.com/kiyounglee/Functional-Light-JS/blob/master/manuscript/toc.md#middle
-[det_3]: https://github.com/kiyounglee/understandinges6/blob/master/manuscript/toc.md#middle
-[det_4]: https://github.com/kiyounglee/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#middle
