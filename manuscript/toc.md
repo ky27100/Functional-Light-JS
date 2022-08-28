@@ -88,7 +88,6 @@
     * Declarative Recursion
     * Stack
     * Rearranging Recursion
-        * Replacing the Stack -- Continuation Passing Style(CPS) -- Trampolines
     * Summary
 * 9 : [List Operations](ch9.md#functional-light-javascript)
     * Non-FP List Processing : forEach, some, every
