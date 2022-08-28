@@ -7,7 +7,7 @@
 [Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
 [JS Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
 
-## [Functional-Light JavaScript](#middle)
+## [Functional-Light JavaScript]
 *[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface) - Nov 27, 2017(388p) [By Kyle Simpson](https://github.com/getify)*
 * 1 : [Why Functional Programming?](ch1.md#functional-light-javascript)
 * 2 : [The Nature Of Functions](ch2.md#functional-light-javascript)
@@ -25,10 +25,8 @@
 * Appendix C [FP Libraries](apC.md#functional-light-javascript) / [FL-helper.js](FL-helper.js) / [FK-helper.js](FK-helper.js)
 
 ---
-<a name="middle"></a>
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
-## [Functional-Light JavaScript](#top) *- detail*
-***[You Dont Konw JS][det_1]** --- **[Functional Light JS][det_2]** --- **[Understanding ES6][det_3]** --- **[Javascript Allongé-6th][det_4]***  
+## [Functional-Light JavaScript](#top) *-detail*
 *[Foreword](foreword.md/#foreword) / [Preface](preface.md/#preface) - Nov 27, 2017(388p) [By Kyle Simpson](https://github.com/getify)*
 * 1 : [Why Functional Programming?](ch1.md#functional-light-javascript)
     * At a Glance
