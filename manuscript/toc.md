@@ -78,7 +78,7 @@
     * Performance
     * Treatment
     * Summary
-* 7 : [Closure vs Object](ch7.md#functional-light-javascript) --> :boom:[Main-2: Composition and Extension](https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/main_2_objects.md#is-encapsulation-object-oriented)
+* 7 : [Closure vs Object](ch7.md#functional-light-javascript) --> :boom:[Composition instead of Inheritance](https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/main_2_objects.md#is-encapsulation-object-oriented)
     * The Same Page
     * Look Alike
         * State -- Behavior,Too! -- (Im)mutability -- Isomorphic -- Under the Hood
