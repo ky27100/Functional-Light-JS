@@ -42,7 +42,7 @@
     * Function Input
     * Named Arguments
     * Function Output
-    * Functions Of Functions : higher-order function & Closure
+    * Functions Of Functions : :boom:higher-order function / Closure
     * Syntax 
     * What's This?
     * Summary
