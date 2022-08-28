@@ -113,7 +113,7 @@
 * Appendix C [FP Libraries](apC.md#functional-light-javascript) / [FL-helper.js](FL-helper.js) / [FK-helper.js](FK-helper.js)
     * Stuff to Investigate -- Ramda -- Lodash/fp -- Mori -- Bonus #1: FPO -- Bonus #2: fasy
     
-[You Dont Konw JS]: https://github.com/getify/You-Dont-Know-JS/blob/1st-ed/README.md
+[You Dont Konw JS]: https://github.com/ky27100/You-Dont-Know-JS/tree/1st-ed
 [Functional Light JS]: https://github.com/ky27100/Functional-Light-JS/blob/master/manuscript/toc.md#top
 [Understanding ES6]: https://github.com/ky27100/understandinges6/blob/master/manuscript/toc.md#top
 [Javascript Allongé-6th]: https://github.com/ky27100/javascript-allonge-six/blob/master/myAllonge/markdown/toc.md#top
