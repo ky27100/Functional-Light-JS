@@ -1027,7 +1027,7 @@ doLogin(user,pw) {
 ```
 From my perspective, [the problem is not with using objects to organize behavior. It's that we're trying to use implicit input instead of being explicit about it. When I'm wearing my FP hat, I want to leave `this` stuff on the shelf.](#aa)
 
-> :boom::boom::boom::boom: by KY - [YDK-JS: this & Object Prototypes - 4 rules ](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch2.md#review-tldr)
+> :boom: by KY - [YDK-JS: this & Object Prototypes - 4 rules ](https://github.com/kiyounglee/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/ch2.md#review-tldr)
 
 ## Summary
 
