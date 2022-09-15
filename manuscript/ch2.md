@@ -380,7 +380,7 @@ The `undefined` value is implicitly `return`ed if you have no `return` or if you
 
 But keeping as much with the spirit of FP function definition as possible -- using functions and not procedures -- our functions should always have outputs, which means they should explicitly `return` a value, and usually not `undefined`.
 
-**[A `return` statement can only return a single value.]() So if your function needs to return multiple values, your only viable option is to collect them into a compound value like an array or an object:**
+**A `return` statement can only return a single value. So if your function needs to return multiple values, your only viable option is to collect them into a compound value like an array or an object:**
 
 ```js
 function foo() {
