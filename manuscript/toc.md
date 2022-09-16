@@ -58,9 +58,9 @@
     * Output To Input : Candy Factory
     * General Composition : compose with loop / reduce / reduce(lazy) / recursion
     * Reordered Composition : pipe
-    * Abstraction
-        * Separation Enables Focus : What / How
-        * Composition as Abstraction : What / How
+    * Abstraction:boom:
+        * Separation Enables Focus
+        * Composition as Abstraction
     * Revisiting Points : Point-free-style
     * Summary
 * 5 : [Reducing Side Effects](ch5.md#functional-light-javascript)
