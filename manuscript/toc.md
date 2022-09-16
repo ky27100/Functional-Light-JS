@@ -64,11 +64,10 @@
     * Revisiting Points : Point-free-style
     * Summary
 * 5 : [Reducing Side Effects](ch5.md#functional-light-javascript)
-    * Func_1 - no side causes/effects : Effects On The Side, Please
-    * Func_2 - Idempotent : Once Is Enough, Thanks
+    * Effects On The Side, Please
+    * Once Is Enough, Thanks : Idempotent
     * Pure Bliss
-    * Func_3 - Referential transparency : There Or Not
-        * cache : Performance Effects
+    * There Or Not : Referential transparency
     * Purifying
     * Summary
 * 6 : [Value Immutability](ch6.md#functional-light-javascript)
