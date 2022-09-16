@@ -9,13 +9,13 @@ Before we talk about the specific array methods, we want to examine conceptually
 
 The vast majority of common illustrations of these operations, both outside of this book and here in this chapter, depict trivial tasks performed on lists of values (like doubling each number in an array); it's a cheap and easy way to get the point across.
 
-But don't just gloss over these simple examples and miss the deeper point. **Some of the most important FP value in understanding list operations comes from [being able to model a sequence of tasks -- a series of statements that wouldn't otherwise *look* like a list -- as a list operation instead of performing them individually.](#aa)**
+But don't just gloss over these simple examples and miss the deeper point. **Some of the most important FP value in understanding list operations comes from being able to model a sequence of tasks -- a series of statements that wouldn't otherwise *look* like a list -- as a list operation instead of performing them individually.
 
 This isn't just a trick to write more terse code. What we're after is to move from imperative to declarative style, to make the code patterns more readily recognizable and thus more readable.
 
-But there's something **even more important to grasp**. With imperative code, each intermediate result in a set of calculations is stored in variable(s) through assignment. The more of these imperative patterns your code relies on, the harder it is to verify that there aren't mistakes -- in the logic, accidental mutation of values, or hidden side causes/effects lurking.
+But there's something even more important to grasp. With imperative code, each intermediate result in a set of calculations is stored in variable(s) through assignment. The more of these imperative patterns your code relies on, the harder it is to verify that there aren't mistakes -- in the logic, accidental mutation of values, or hidden side causes/effects lurking.
 
-By **[chaining and/or composing list operations together](#aa)**, the intermediate results are tracked implicitly and largely protected from these hazards.
+By chaining and/or composing list operations together, the intermediate results are tracked implicitly and largely protected from these hazards.
 
 **Note:** More than previous chapters, to keep the many following code snippets as brief as possible, we'll rely heavily on the ES6 `=>` form. However, my [advice on `=>` from Chapter 2](ch2.md/#functions-without-function) still applies for general coding.
 
