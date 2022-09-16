@@ -35,7 +35,7 @@ As a quick preamble to our discussion in this chapter, I want to call out a few 
 
 We'll start our exploration of FP list operations with one of the most basic and fundamental: `map(..)`.
 
-**A mapping is a transformation from one value to another value.** For example, if you start with the number `2` and you multiply it by `3`, you have mapped it to `6`. It's important to note that we're not talking about mapping transformation as implying *in-place* mutation or reassignment; instead, **we're looking at how mapping transformation projects a new value from one location to the other.**
+**A mapping is a transformation from one value to another value.** For example, if you start with the number `2` and you multiply it by `3`, you have mapped it to `6`. It's important to note that we're not talking about mapping transformation as **implying *in-place* mutation or reassignment**; instead, we're looking at how mapping transformation **projects a new value from one location to the other.**
 
 In other words:
 
