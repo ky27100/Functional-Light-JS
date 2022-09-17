@@ -100,7 +100,7 @@
     * Beyond Lists
     * Summary
 * 10 : [Functional Async](ch10.md#functional-light-javascript)
-    * Time As State
+    * Time as State
     * Eager vs Lazy
     * Reactive FP
     * Summary
