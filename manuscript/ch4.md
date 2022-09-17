@@ -480,7 +480,7 @@ As you may recall from our first implementation of `partialRight(..)` in Chapter
 
 Abstraction plays heavily into our reasoning about composition, so let's examine it in more detail.
 
-Similar to how partial application and currying (see [Chapter 3](ch3.md/#some-now-some-later)) allow a progression from generalized to specialized functions, we can abstract by pulling out the generality between two or more tasks. The general part is defined once, so as to avoid repetition. To perform each task's specialization, the general part is parameterized.
+Similar to how partial application and currying (see Chapter 3) allow a progression from generalized to specialized functions, we can abstract by pulling out the generality between two or more tasks. The general part is defined once, so as to avoid repetition. To perform each task's specialization, the general part is parameterized.
 
 For example, consider this (obviously contrived) code:
 
