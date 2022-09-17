@@ -1131,7 +1131,7 @@ printIf( isLongEnough, msg1 );
 printIf( isLongEnough, msg2 );          // Hello World
 ```
 
-Hopefully the FP practice of point-free style coding is starting to make a little more sense. It'll still take a lot of practice to train yourself to think this way naturally. **And you'll still have to make judgement calls** as to whether point-free coding is worth it, as well as what extent will benefit your code's readability.
+Hopefully the FP practice of point-free style coding is starting to make a little more sense. It'll still take a lot of practice to train yourself to think this way naturally. And you'll still have to make judgement calls as to whether point-free coding is worth it, as well as what extent will benefit your code's readability.
 
 What do you think? Points or no points for you?
 
