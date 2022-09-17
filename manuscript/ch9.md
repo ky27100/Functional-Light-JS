@@ -86,7 +86,7 @@ function map(mapperFn,arr) {
 
 The `mapperFn(..)` is naturally passed the list item to map/transform, but also an `idx` and `arr`. We're doing that to keep consistency with the built-in array `map(..)`. These extra pieces of information can be very useful in some cases.
 
-But in other cases, you may want to use a `mapperFn(..)` that only the list item should be passed to, because the extra arguments might change its behavior. In [Chapter 3, "All For One"](ch3.md/#all-for-one), we introduced `unary(..)`, which limits a function to only accept a single argument (no matter how many are passed).
+But in other cases, you may want to use a `mapperFn(..)` that only the list item should be passed to, because the extra arguments might change its behavior. In Chapter 3, "All For One", we introduced `unary(..)`, which limits a function to only accept a single argument (no matter how many are passed).
 
 Recall [the example from Chapter 3](ch3.md/#user-content-mapunary) about limiting `parseInt(..)` to a single argument to be used safely as a `mapperFn(..)`, which we can also utilize with the standalone `map(..)`:
 
