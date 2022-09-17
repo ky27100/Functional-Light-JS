@@ -721,11 +721,11 @@ var getCurrentUser = partial(
 getCurrentUser( function foundUser(user){ /* .. */ } );
 ```
 
-In this version, we define a `getCurrentUser(..)` function ahead of time that already has known information like URL and data preset. The call-site for `getCurrentUser(..)` then isn't cluttered by information that **at that point of the code** isn't relevant.
+In this version, we define a `getCurrentUser(..)` function ahead of time that already has known information like URL and data preset. The call-site for `getCurrentUser(..)` then isn't cluttered by information that at that point of the code isn't relevant.
 
 Moreover, the semantic name for the function `getCurrentUser(..)` more accurately depicts what is happening than just `ajax(..)` with a URL and data would.
 
-[That's what abstraction is all about: **separating two sets of details** -- in this case, **the *how* of getting a current user and the *what* we do with that user** -- and inserting a semantic boundary between them, which eases the reasoning of each part independently.]()
+That's what abstraction is all about: **separating two sets of details** -- in this case, **the *how* of getting a current user** and **the *what* we do with that user** -- and inserting a semantic boundary between them, which eases the reasoning of each part independently.
 
 Whether you use currying or partial application, creating specialized functions from generalized ones is a powerful technique for semantic abstraction and improved readability.
 
