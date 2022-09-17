@@ -47,10 +47,10 @@
     * What's This?
     * Summary
 * 3 : [Managing Function Inputs](ch3.md#functional-light-javascript)
-    * All For One : unary / identity / constant
+    * All for One : unary / identity / constant
     * Adapting Arguments to Parameters : spreadArgs / gatherArgs
     * Some Now, Some Later : partial / partialRight / reverseArgs
-    * One At A Time : curry / looseCurry / uncurry
+    * One at a Time : curry / looseCurry / uncurry
     * Order Matters : partialProps / curryProps / spreadArgProps
     * No Points(point-free style) : unary / not / when
     * Summary
