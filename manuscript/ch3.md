@@ -687,7 +687,7 @@ But the reason I show it that way is that it happens to look almost identical to
 
 ### Why Currying and Partial Application?
 
-With either style -- currying (such as `sum(1)(2)(3)`) or partial application (such as `partial(sum,1,2)(3)`) -- the call-site unquestionably looks stranger than a more common one like `sum(1,2,3)`. So **why would we ever go this direction** when adopting FP? There are multiple layers to answering that question.
+With either style -- currying (such as `sum(1)(2)(3)`) or partial application (such as `partial(sum,1,2)(3)`) -- the call-site unquestionably looks stranger than a more common one like `sum(1,2,3)`. So why would we ever go this direction when adopting FP? There are multiple layers to answering that question.
 
 :one:The first and most obvious reason is that both currying and partial application allow you **to separate in time/space (throughout your codebase) when and where separate arguments are specified**, whereas traditional function calls require all the arguments to be present at the same time. If you have a place in your code where you'll know some of the arguments and another place where the other arguments are determined, currying or partial application are very useful.
 
