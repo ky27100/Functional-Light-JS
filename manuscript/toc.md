@@ -55,7 +55,7 @@
     * No Points(point-free style) : unary / not / when
     * Summary
 * 4 : [Composing Functions](ch4.md#functional-light-javascript)
-    * Output To Input : Candy Factory
+    * Output to Input : Candy Factory
     * General Composition : compose with loop / reduce / reduce(lazy) / recursion
     * Reordered Composition : pipe
     * Abstraction:boom:
