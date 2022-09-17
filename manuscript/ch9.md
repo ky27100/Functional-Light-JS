@@ -17,7 +17,7 @@ But there's something even more important to grasp. With imperative code, each i
 
 By chaining and/or composing list operations together, the intermediate results are tracked implicitly and largely protected from these hazards.
 
-**Note:** More than previous chapters, to keep the many following code snippets as brief as possible, we'll rely heavily on the ES6 `=>` form. However, my [advice on `=>` from Chapter 2](ch2.md/#functions-without-function) still applies for general coding.
+**Note:** More than previous chapters, to keep the many following code snippets as brief as possible, we'll rely heavily on the ES6 `=>` form. However, my advice on `=>` from Chapter 2 still applies for general coding.
 
 ## Non-FP List Processing
 
