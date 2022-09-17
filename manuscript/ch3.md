@@ -279,7 +279,7 @@ To conceive such a utility for argument presetting, let's examine conceptually w
 
 One way to articulate what's going on is that the `getOrder(data,cb)` function is a *partial application* of the `ajax(url,data,cb)` function. This terminology comes from the notion that arguments are *applied* to parameters at the function call-site. And as you can see, we're only applying some of the arguments up front -- specifically, the argument for the `url` parameter -- while leaving the rest to be applied later.
 
-To be a tiny bit more formal about this pattern, partial application is strictly a reduction in a function's arity; remember, that's the number of expected parameter inputs. We reduced the original `ajax(..)` function's arity from 3 to 2 for the `getOrder(..)` function.
+To be a tiny bit more formal about this pattern, **partial application is strictly a reduction in a function's arity**; remember, that's the number of expected parameter inputs. We reduced the original `ajax(..)` function's arity from 3 to 2 for the `getOrder(..)` function.
 
 Let's define a `partial(..)` utility:
 
