@@ -357,9 +357,9 @@ var compose =
         );
 ```
 
-Notice that we return the result of the `reduce(..)` call directly, **[which is itself a function, not a computed result.](#aa)** *That* function lets us pass in as many arguments as we want, passing them all down the line to the first function call in the composition, then bubbling up each result through each subsequent call.
+Notice that we return the result of the `reduce(..)` call directly, **which is itself a function, not a computed result.** *That* function lets us pass in as many arguments as we want, passing them all down the line to the first function call in the composition, then bubbling up each result through each subsequent call.
 
-Instead of calculating the running result and passing it along as the `reduce(..)` looping proceeds, [this implementation runs the `reduce(..)` looping **once** up front at composition time, and **defers all the function call calculations -- referred to as lazy calculation.**]() Each partial result of the reduction is a successively more wrapped function.
+Instead of calculating the running result and passing it along as the `reduce(..)` looping proceeds, this implementation runs the `reduce(..)` looping **once** up front at composition time, and **defers all the function call calculations -- referred to as lazy calculation.** Each partial result of the reduction is a successively more wrapped function.
 
 When you call the final composed function and provide one or more arguments, all the levels of the big nested function, from the inner most call to the outer, are executed in reverse succession (not via a loop).
 
@@ -374,7 +374,7 @@ We could also define `compose(..)` using recursion. The recursive definition for
 compose( compose(fn1,fn2, .. fnN-1), fnN );
 ```
 
-**Note:** We will cover recursion more fully in [Chapter 8](ch8.md), so if this approach seems confusing, don't worry for now. Or, go read that chapter then come back and re-read this note. :)
+**Note:** We will cover recursion more fully in Chapter 8, so if this approach seems confusing, don't worry for now. Or, go read that chapter then come back and re-read this note. :)
 
 Here's how we implement `compose(..)` with recursion:
 
