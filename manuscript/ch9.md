@@ -13,7 +13,7 @@ But don't just gloss over these simple examples and miss the deeper point. :one:
 
 This isn't just a trick to write more terse code. What we're after is to move from imperative to declarative style, to make the code patterns more readily recognizable and thus more readable.
 
-:two:But there's something even more important to grasp. With imperative code, each intermediate result in a set of calculations is stored in **variable(s) through assignment.** The more of these imperative patterns your code relies on, the harder it is to verify that there aren't mistakes -- in the logic, accidental mutation of values, or hidden side causes/effects lurking.
+:two:But there's something even more important to grasp. With imperative code, **each intermediate result in a set of calculations is stored in variable(s) through assignment.** The more of these imperative patterns your code relies on, the harder it is to verify that there aren't mistakes -- in the logic, accidental mutation of values, or hidden side causes/effects lurking.
 
 By chaining and/or composing list operations together, the intermediate results are tracked implicitly and largely protected from these hazards.
 
