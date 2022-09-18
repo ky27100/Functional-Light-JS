@@ -95,7 +95,7 @@
     * List operation : Reduce
     * Advanced List Operations : Unique, Flatten, Zip, Merge
     * Method vs. Standalone
-    * Looking For Lists
+    * Looking for Lists
     * Fusion
     * Beyond Lists
     * Summary
