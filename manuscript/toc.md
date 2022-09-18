@@ -90,9 +90,9 @@
     * Summary
 * 9 : [List Operations](ch9.md#functional-light-javascript)
     * Non-FP List Processing : forEach, some, every
-    * Key List operations : Map(Functor)
-    * Key List operations : Filter(Predicate)
-    * Key List operations : Reduce
+    * List operation : Map(Functor)
+    * List operation : Filter(Predicate)
+    * List operation : Reduce
     * Advanced List Operations : Unique, Flatten, Zip, Merge
     * Method vs. Standalone
     * Looking For Lists
