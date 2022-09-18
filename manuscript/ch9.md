@@ -88,7 +88,7 @@ The `mapperFn(..)` is naturally passed the list item to map/transform, but also 
 
 But in other cases, you may want to use a `mapperFn(..)` that only the list item should be passed to, because the extra arguments might change its behavior. In Chapter 3, "All For One", we introduced `unary(..)`, which limits a function to only accept a single argument (no matter how many are passed).
 
-Recall [the example from Chapter 3](ch3.md/#user-content-mapunary) about limiting `parseInt(..)` to a single argument to be used safely as a `mapperFn(..)`, which we can also utilize with the standalone `map(..)`:
+Recall [the example from Chapter 3](ch3.md/#all-for-one) about limiting `parseInt(..)` to a single argument to be used safely as a `mapperFn(..)`, which we can also utilize with the standalone `map(..)`:
 
 ```js
 map( ["1","2","3"], unary( parseInt ) );
