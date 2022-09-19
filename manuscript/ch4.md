@@ -15,7 +15,7 @@ Composition is how an FPer models the flow of data through the program. In some 
 
 ## Output to Input
 
-We've already seen a few examples of composition. For example, our discussion of [`unary(..)` in Chapter 3](ch3.md/#user-content-unary) included this expression: [`[..].map(unary(parseInt))`](ch3.md/#user-content-mapunary). Think about what's happening there.
+We've already seen a few examples of composition. For example, our discussion of `unary(..)` in Chapter 3 included this expression: `[..].map(unary(parseInt))`. Think about what's happening there.
 
 To compose two functions together, pass the output of the first function call as the input of the second function call. In `map(unary(parseInt))`, the `unary(parseInt)` call returns a value (a function); that value is directly passed as an argument to `map(..)`, which returns an array.
 
