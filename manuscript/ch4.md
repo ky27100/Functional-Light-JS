@@ -412,7 +412,7 @@ I think the benefit of a recursive implementation is mostly conceptual. **I pers
 
 Others will find the recursive approach quite a bit more daunting to mentally juggle. I invite you to make your own evaluations.
 
-## Reordered Composition
+## Reordered Composition : pipe
 
 We talked earlier about the right-to-left ordering of standard `compose(..)` implementations. The advantage is in listing the arguments (functions) in the same order they'd appear if doing the composition manually.
 
