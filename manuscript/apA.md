@@ -109,7 +109,7 @@ Let's jump in.
 
 ### Expressing Map/Filter as Reduce
 
-The first trick we need to perform is expressing our `filter(..)` and `map(..)` calls as `reduce(..)` calls. Recall [how we did that in Chapter 9](ch9.md/#map-as-reduce):
+The first trick we need to perform is expressing our `filter(..)` and `map(..)` calls as `reduce(..)` calls. Recall how we did that in [Chapter 9](ch9.md/#map-as-reduce):
 
 ```js
 function strUppercase(str) { return str.toUpperCase(); }
