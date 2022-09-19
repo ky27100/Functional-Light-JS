@@ -22,7 +22,8 @@
 * 11 : [Putting It All Together](ch11.md#functional-light-javascript)
 * Appendix A : [Transducing](apA.md#functional-light-javascript)
 * Appendix B : [The Humble Monad](apB.md#functional-light-javascript)
-* Appendix C : [FP Libraries](apC.md#functional-light-javascript) / [FL-helper.js](FL-helper.js) / [FK-helper.js](FK-helper.js)
+* Appendix C : [FP Libraries](apC.md#functional-light-javascript) 
+* [FL-helper.js](FL-helper.js) / [FK-helper.js](FK-helper.js)
 
 ---
 ***[YDK JS]** -- **[YDK JS Yet]** -- **[Functional Light JS]** -- **[Understanding ES6]** -- **[JS Allongé-6th]***   
@@ -115,5 +116,6 @@
     * What, Finally
 * Appendix B : [The Humble Monad](apB.md#functional-light-javascript)
     * Type -- Loose Interface -- Just a Monad -- Maybe -- Humble
-* Appendix C : [FP Libraries](apC.md#functional-light-javascript) / [FL-helper.js](FL-helper.js) / [FK-helper.js](FK-helper.js)
+* Appendix C : [FP Libraries](apC.md#functional-light-javascript) 
     * Stuff to Investigate -- Ramda -- Lodash/fp -- Mori -- Bonus #1: FPO -- Bonus #2: fasy
+* [FL-helper.js](FL-helper.js) / [FK-helper.js](FK-helper.js)
