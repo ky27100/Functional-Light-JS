@@ -1,7 +1,7 @@
 # Functional-Light JavaScript
 # Appendix A: Transducing
 
-Transducing is a more advanced technique than we've covered in this book. It extends many of the concepts from [Chapter 9](ch9.md) on list operations.
+Transducing is a more advanced technique than we've covered in this book. It extends many of the concepts from Chapter 9 on list operations.
 
 I wouldn't necessarily call this topic strictly "Functional-Light", but more like a bonus on top. I've presented this as an appendix because you might very well need to skip the discussion for now and come back to it once you feel fairly comfortable with -- and make sure you've practiced! -- the main book concepts.
 
