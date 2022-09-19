@@ -352,7 +352,7 @@ I think using `filterIn(..)` and `filterOut(..)` (known as `reject(..)` in Ramda
 
 While `map(..)` and `filter(..)` produce new lists, typically this third operator (`reduce(..)`) combines (aka "reduces") the values of a list down to a single finite (non-list) value, like a number or string. However, later in this chapter, we'll look at how you can push `reduce(..)` to use it in more advanced ways. `reduce(..)` is one of the most important FP tools; it's like a Swiss Army all-in-one knife with all its usefulness.
 
-A combination/reduction is abstractly defined as taking two values and making them into one value. Some FP contexts refer to this as "folding", as if you're folding two values together into one value. That's a helpful visualization, I think.
+A combination/reduction is abstractly defined as **taking two values and making them into one value.** Some FP contexts refer to this as "folding", as if you're folding two values together into one value. That's a helpful visualization, I think.
 
 Just like with mapping and filtering, the manner of the combination is entirely up to you, and generally dependent on the types of values in the list. For example, **numbers will typically be combined through arithmetic, strings through concatenation, and functions through composition.**
 
