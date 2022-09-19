@@ -67,7 +67,7 @@ function isCorrectLength(str) {
 
 But that's not the FP way!
 
-In [Chapter 9, we talked about fusion](ch9.md/#fusion) -- composing adjacent mapping functions. Recall:
+In Chapter 9, we talked about [fusion](ch9.md/#fusion) -- composing adjacent mapping functions. Recall:
 
 ```js
 words
