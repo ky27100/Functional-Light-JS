@@ -53,7 +53,7 @@
     * Some Now, Some Later : partial / partialRight / reverseArgs
     * One at a Time : curry / looseCurry / uncurry
     * Order Matters : partialProps / curryProps / spreadArgProps
-    * No Points(point-free style) : unary / not / when
+    * No Points : unary / not / when
     * Summary
 * 4 : [Composing Functions](ch4.md#functional-light-javascript)
     * Output to Input : Candy Factory
