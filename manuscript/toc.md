@@ -110,7 +110,9 @@
     * Stock Ticker UI
     * Summary
 * Appendix A [Transducing](apA.md#functional-light-javascript)
-    * Why, First -- How, Next -- What, Finally
+    * Why, First 
+    * How, Next
+    * What, Finally
 * Appendix B [The Humble Monad](apB.md#functional-light-javascript)
     * Type -- Loose Interface -- Just a Monad -- Maybe -- Humble
 * Appendix C [FP Libraries](apC.md#functional-light-javascript) / [FL-helper.js](FL-helper.js) / [FK-helper.js](FK-helper.js)
