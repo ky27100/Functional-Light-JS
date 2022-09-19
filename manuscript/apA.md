@@ -142,7 +142,7 @@ That's a decent improvement. We now have four adjacent `reduce(..)` calls instea
 
 <a name="cheating"></a>
 
-In [Chapter 9, we sort of cheated](ch9.md/#user-content-reducecheating) and used `list.push(..)` to mutate as a side effect rather than creating a whole new array to concatenate onto. Let's step back and be a bit more formal for now:
+In [Chapter 9](ch9.md/#user-content-reducecheating), we sort of cheated and used `list.push(..)` to mutate as a side effect rather than creating a whole new array to concatenate onto. Let's step back and be a bit more formal for now:
 
 ```js
 function strUppercaseReducer(list,str) {
