@@ -476,7 +476,7 @@ var hyphenate = (str,char) => `${str}-${char}`;
 ["a","b","c"].reduceRight( hyphenate );
 // "c-b-a"
 ```
-Where `reduce(..)` works left-to-right and thus acts naturally like `pipe(..)` in composing functions, `reduceRight(..)`'s right-to-left ordering is natural for performing a `compose(..)`-like operation. So, let's revisit [`compose(..)` from Chapter 4](ch4.md/#user-content-composereduce), but implement it using `reduceRight(..)`:
+Where `reduce(..)` works left-to-right and thus acts naturally like `pipe(..)` in composing functions, `reduceRight(..)`'s right-to-left ordering is natural for performing a `compose(..)`-like operation. So, let's revisit [`compose(..)` from Chapter 4](ch4.md/#alternative-implementations--composer-with-reduce--reducelazy--recursion), but implement it using `reduceRight(..)`:
 
 ```js
 function compose(...fns) {
