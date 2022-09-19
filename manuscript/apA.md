@@ -15,7 +15,7 @@ As with the rest of this book, my approach is to first explain *why*, then *how*
 
 ## Why, First
 
-Let's start by extending a [scenario we covered back in Chapter 3](ch3.md/#user-content-shortlongenough), testing words to see if they're short enough and/or long enough:
+Let's start by extending a scenario we covered back in Chapter 3, testing words to see if they're short enough and/or long enough:
 
 ```js
 function isLongEnough(str) {
