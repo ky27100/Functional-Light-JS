@@ -307,8 +307,6 @@ For example, if you did an addition-reduction across a list of numbers (such as 
 
 The original version of `compose(..)` uses a loop and eagerly (aka, immediately) calculates the result of one call to pass into the next call. This is a reduction of a list of functions, so we can do that same thing with `reduce(..)`:
 
-<a name="composereduce"></a>
-
 ```js
 function compose(...fns) {
     return function composed(result){
