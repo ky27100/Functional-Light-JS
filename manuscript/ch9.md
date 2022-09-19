@@ -88,14 +88,14 @@ The `mapperFn(..)` is naturally passed the list item to map/transform, but also 
 
 But in other cases, you may want to use a `mapperFn(..)` that only the list item should be passed to, because the extra arguments might change its behavior. In Chapter 3, "All For One", we introduced `unary(..)`, which limits a function to only accept a single argument (no matter how many are passed).
 
-Recall [the example from Chapter 3](ch3.md/#all-for-one) about limiting `parseInt(..)` to a single argument to be used safely as a `mapperFn(..)`, which we can also utilize with the standalone `map(..)`:
+Recall the example from Chapter 3 about limiting `parseInt(..)` to a single argument to be used safely as a `mapperFn(..)`, which we can also utilize with the standalone `map(..)`:
 
 ```js
 map( ["1","2","3"], unary( parseInt ) );
 // [1,2,3]
 ```
 
-**Note:** The JavaScript array prototype operations (`map(..)`, `filter(..)`, and `reduce(..)`) all accept an optional last argument to use for `this` binding of the function. As we discussed in [Chapter 2, "What's This?"](ch2.md/#whats-this), `this`-based coding should generally be avoided wherever possible in terms of being consistent with the best practices of FP. As such, our example implementations in this chapter do not support such a `this`-binding feature.
+**Note:** The JavaScript array prototype operations (`map(..)`, `filter(..)`, and `reduce(..)`) all accept an optional last argument to use for `this` binding of the function. As we discussed in Chapter 2, "What's This?", `this`-based coding should generally be avoided wherever possible in terms of being consistent with the best practices of FP. As such, our example implementations in this chapter do not support such a `this`-binding feature.
 
 ---
 Beyond the obvious numeric or string operations you could perform against a list of those respective value types, here are some other examples of mapping operations. We can use `map(..)` to transform a list of functions into a list of their return values:
