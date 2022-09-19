@@ -465,7 +465,7 @@ fn( 9 );            // 11016  (9 * 3 * 17 * 6 * 4)
 fn( 10 );           // 12240  (10 * 3 * 17 * 6 * 4)
 ```
 
-Unlike `map(..)` and `filter(..)` whose order of passing through the array wouldn't actually matter, `reduce(..)` definitely uses left-to-right processing. If you want to reduce right-to-left, JavaScript provides a `reduceRight(..)`, with all other behaviors the same as `reduce(..)`:
+Unlike `map(..)` and `filter(..)` whose order of passing through the array wouldn't actually matter, **`reduce(..)` definitely uses left-to-right processing. If you want to reduce right-to-left**, JavaScript provides a `reduceRight(..)`, with all other behaviors the same as `reduce(..)`:
 
 ```js
 var hyphenate = (str,char) => `${str}-${char}`;
