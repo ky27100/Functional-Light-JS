@@ -1039,7 +1039,7 @@ The success of this technique will be dependent on the thoroughness of the *copy
 
 ### `this` Revisited
 
-Another variation of the via-reference side cause/effect is with :three: **`this`-aware functions having `this` as an implicit input.** See [Chapter 2, "What's This"](ch2.md/#whats-this) for more info on why the `this` keyword is problematic for FPers.
+Another variation of the via-reference side cause/effect is with :three: **`this`-aware functions having `this` as an implicit input.** See [Chapter 2](ch2.md/#whats-this), "What's This" for more info on why the `this` keyword is problematic for FPers.
 
 Consider:
 
