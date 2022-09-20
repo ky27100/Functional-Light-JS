@@ -496,7 +496,7 @@ Thinking about `listCombine(..)` in isolation, there's no question it's impure a
 
 `listCombine(..)` is not a function we interact with at all. We don't directly use it anywhere in the program; instead, we let the transducing process use it.
 
-Back in [Chapter 5](ch5.md), we asserted that **our goal with reducing side effects and defining pure functions was only that we expose pure functions to the API level of functions we'll use throughout our program.** We observed that under the covers, inside a pure function, it can cheat for performance sake all it wants, as long as it doesn't violate the external contract of purity.
+Back in [Chapter 5](ch5.md), we asserted that **our goal with reducing side effects and defining pure functions was only that we expose pure functions to the API level of functions we'll use throughout our program. We observed that under the covers, inside a pure function, it can cheat for performance sake all it wants, as long as it doesn't violate the external contract of purity.**
 
 `listCombine(..)` is more an internal implementation detail of the transducing -- in fact, it'll often be provided by the transducing library for you! -- rather than a top-level method you'd interact with on a normal basis throughout your program.
 
