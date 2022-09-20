@@ -1166,7 +1166,7 @@ map(
 
 With this style, the operations are listed from bottom-to-top, and we still loop over the list three times.
 
-Fusion deals with combining adjacent operators to reduce the number of times the list is iterated over. We'll focus here on collapsing adjacent `map(..)`s as it's the most straightforward to explain.
+**Fusion deals with combining adjacent operators to reduce the number of times the list is iterated over.** We'll focus here on collapsing adjacent `map(..)`s as it's the most straightforward to explain.
 
 Imagine this scenario:
 
