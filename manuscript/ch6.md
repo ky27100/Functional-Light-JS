@@ -341,7 +341,7 @@ Whenever we start creating new values (arrays, objects, etc.) instead of mutatin
 
 If we have to reallocate a new array each time we need to add to it, that's not only churning CPU time and consuming extra memory; the old values (if no longer referenced) are also being garbage collected. That's even more CPU burn.
 
-Is that an acceptable trade-off? It depends. No discussion or optimization of code performance should happen **without context.**
+Is that an acceptable trade-off? It depends. No discussion or optimization of code performance should happen without context.
 
 If you have a single state change that happens once (or even a couple of times) in the whole life of the program, throwing away an old array/object for a new one is almost certainly not a concern. The churn we're talking about will be so small -- probably mere microseconds at most -- as to have no practical effect on the performance of your application. Compared to the minutes or hours you will save not having to track down and fix a bug related to unexpected value mutation, there's not even a contest here.
 
