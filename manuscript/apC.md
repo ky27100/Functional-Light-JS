@@ -14,7 +14,7 @@ Let's expand the [list of FP libraries to be aware of, from Chapter 1](ch1.md/#l
 * [Ramda](http://ramdajs.com): General FP Utilities
 * [Sanctuary](https://github.com/sanctuary-js/sanctuary): Ramda Companion for FP Types
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide): General FP Utilities
-* [functional.js](http://functionaljs.com/): General FP Utilities
+* [functional.js](https://github.com/osteele/functional-javascript)): General FP Utilities
 * [Immutable](https://github.com/facebook/immutable-js): Immutable Data Structures
 * [Mori](https://github.com/swannodette/mori): (ClojureScript Inspired) Immutable Data Structures
 * [Seamless-Immutable](https://github.com/rtfeldman/seamless-immutable): Immutable Data Helpers
