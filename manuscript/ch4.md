@@ -843,7 +843,7 @@ Function composition is a pattern for defining a function that routes the output
 
 Because JS functions can **only return single values**, the pattern essentially dictates that **all functions in the composition (except perhaps the first called) need to be unary, taking only a single input from the output of the previous function.**
 
-Instead of listing out each step as a discrete call in our code, function composition using a utility like `compose(..)` or `pipe(..)` abstracts that implementation detail so the code is more readable, allowing us to focus on *what* the composition will be used to accomplish, not *how* it will be performed.
+Instead of listing out each step as a discrete call in our code, function composition using a utility like `compose(..)` or `pipe(..)` abstracts that implementation detail so the code is more readable, allowing us to focus on ***what* the composition will be used to accomplish, not *how* it will be performed.**
 
 Composition is declarative data flow, meaning our code describes the flow of data in an explicit, obvious, and readable way.
 
