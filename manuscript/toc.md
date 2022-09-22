@@ -93,7 +93,7 @@
     * Non-FP List Processing : forEach, some, every
     * List operation : Map(Functor)
     * List operation : Filter(Predicate)
-    * List operation : Reduce
+    * List operation : Reduce(=folding)
     * Advanced List Operations : Unique, Flatten, Zip, Merge
     * Method vs. Standalone
     * Looking for Lists
